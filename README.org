@@ -1,0 +1,11 @@
+# -*- mode: org; coding: utf-8; -*-
+#+author:
+#+title: Stellavox SP8 Manuals
+
+This unofficial version of the Stellavox SP8 manuals has been reconstructed from notes, scans and partial transcriptions in the hope it may be useful. There are almost certainly transcription errors, missing data and unreadable 1bit diagrams…
+
+Any corrections, additions or comments → https://github.com/zzkt/stellavox
+
+[[file:img/stellavox_sp8-4.jpg]]
+
+*

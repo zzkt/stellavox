@@ -1,0 +1,710 @@
+# -*- mode: org; coding: utf-8; -*-
+#+LaTeX_CLASS: stellavox-manual
+#+options: toc:nil
+#+author:
+#+title: Operating Manual
+#+subtitle: for the portable professional recorders STELLAVOX SP8, STELLAMASTER SM8,  INSTRUMENTATION SI8, QUADROSONIC SQ8
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+#+BEGIN_export latex
+\tableofcontents*
+#+END_export
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* 1. Introduction
+
+The portable professional taperecorder STELLAVOX SP 8 (standard model) allows studio quality recording on & tape under the most difficult conditions. In addition to the standard speeds, i.e. 3¾ , 7½ and 15 ips (30 ips on special order), all intermediate tape speeds may be chosen using the external accessory ASV. The modular system is most versatile and permits any recording format, be it monaural or stereophonic, with er without a special track for synchronizing, that depending upon the plugged heads-block SHD, interchangeable, the most used being: Mono / Mono-Pilot-Neo / Stereo / Stereo-Pilot-Synchrotone.
+
+With the frequency response reaching well into the subsonic range (down to 0 Hz with an FM converter) and into the ultrasound spectrum, the SI 8 is used for instrumentation purposes, and the STELLAMASTER SM 8 offers, by special high grade design, worid best recording and playback specifications.
+
+The QUADROSONIC recorder SQ 8 enables professional recordings of tremendous quality on location although weighing only 12 pounds and operating with quarter inch standard magnetic tape (battery operation).
+
+The operation of the SP 8 is uncomplicated and is similar for all STELLAVOX recorders. It does not contain any unnecessary gadgets, but all the essential features for high quality recording. The operating instructions are kept short and to the point. Your distributor is at your disposal to furnish any additional information you may wish to obtain.
+
+
+IMPORTANT: On first unpacking your STELLAVOX SP 8 and its accessories, check the contents carefully against the packing list to make sure everything has been received. In case of shipping damage, follow the instructions attached to the packing list since such damage is covered by insurance and is NOT guaranteed by the shipper. SAVE THE STYROFORM PACKING CASE PERMANENTLY SINCE IT IS THE BEST WAY TO SHIP YOUR STELLAVOX WITHOUT DAMAGE.
+
+All the above mentioned recorders are battery-(built-in) operated; a power supply, the APS 8, may aliso be used for powering and/or charging built~in accumulators.
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* 2. Batteries
+
+The self-contained power supply utilizes 15 penlight batteries, type AA (size: Ø 15 x 50 mm), available in three different types:
+
+The common carbon/zinc elements constitute a rather variable power source depending on the battery quality and the duty cycle. A lifetime of up to five hours can be expected for continuous operation and about twice as lon
+g when the recorder is not used more than 1/2 hour per day. We suggest the use of these batteries only when infrequent use of the recorder is anticipated or in emergencies. There is also the danger of leaking batteries if they are left in the recorder over a long period of time, and they do not operate at low temperatures. One of the following battery types should be preferred:
+
+Alkaline batteries with high capacity and long storage time (two years) are made by several manufacturers. The output voltage is nearly constant over the usable life and one can expect 13 hours of continuous recording time. These batteries can also be used at low temperatures where carbon/zinc elements become unusable. We suggest keeping one spare set of Alkaline batteries.
+
+Rechargeable Nickel-Cadmium batteries offer the best economy, especially for heavy duty use of the SP 8. The voltage changes little with the time of discharge. An operating time of 4 hours per charge is normal. They work perfectly at fairly low temperatures, down to -20°C, at which temperature the SP 8 still performs flawlessly.
+
+We do not recommend the connection of the recorder to a car battery.
+
+Note that all the STELLAVOX products are of the modern polarity: negative grounded.
+
+*Insertion of the 15 batteries into the SP 8 recorder* (two sets of 15 may be used in the SQ 8):
+
+Put the SP 8 vertically on its front panel with the clear cover facing towards you and open both slide locks of the compartment lid. Insert the 15 batteries according to the drawing at the bottom of the container, starting on the extreme right and left sides. Close the Lid and both locks and check the battery voltage on modulation meter "RIGHT" by pressing the "BATT" button (front panel). Check frequently that the battery contacts are clean!
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* 3. External power supply and charger
+
+Usually the SP 8 taperecorder is powered by the incorporated batteries. It is also possible to employ an outside power source, such as;
+
+a) An external battery of approx. 18 to 24 volts (e.g. two 9 volt lantern batteries in series) connected to the receptacle "EXTERNAL" (see the block diagram). This method can be useful for obtaining a longer operating time or in an emergency when the normal AA-cells are not available.
+
+b) The AC-LINE-POWER-SUPPLY APS 8 (110 to 240 V, 50 or 60 Hz) which not only furnishes the power for the operation of the SP 8 recorder, but recharges the incorporated batteries at the same time. The charging current is indicated by the APS 8 white lamp (charging time is approx. eighteen hours for normally discharged batteries. Note: the lamp does not go out at the end of charging). If the installed batteries are of the non-rechargeable type, no harm is done.
+
+*Using the AC~LINE-POWER-SUPPLY APS 8:*
+
+Set the voltage selector to the correct line voltage and connect to the SP 8 "EXTERNAL" receptacle by means of the cable, connect the APS 8 mains lead to the AC line (the red lamp should then glow). The taperecorder can now be operated in the usual manner, while the batteries are recharging, indicated by the white lamp. The power supply also delivers a 1,3 volt line signal for synchronization purposes (special cable needed). The fuse is 160 mA.
+
+#+ATTR_LaTeX: :placement [!htb]
+#+ATTR_LATEX: :width 1.1\linewidth :align c
+#+caption: APS 0118
+[[file:img/3.APS.0118.png]]
+
+#+ATTR_LaTeX: :placement [!htb]
+#+ATTR_LATEX: :width 1.1\linewidth :align c
+#+caption: Voltage diagram in relation to the current of the APS 8
+[[file:img/3.voltage.png]]
+
+* 4. Magnetic tapes and large reel adaptor kit "ABR"
+
+The quality of recordings obtained with the STELLAVOX recorders depends very much on the excellence of the microphones and magnetic tapes used. Therefore, only the highest quality tapes are recommended. It is well known that even among the best brands there are marked differences between the magnetic characteristics, requiring a specific bias and equalization in order to achieve optimum recording quality.
+
+If longer recording times are required, we suggest use of our accessory for accesptance of larger reels (up to 12") extending the capacity for instance to two hours at 7.5 ips with long play tapes. Code name of the extension arms: ABR. For use: see page 6.
+
+*Putting the tape on the SP 8:*
+
+Open the lid and disengage the pinch wheel assembly, if not yet done, by switching the main control momentarily to rewind. NEVER TRY TO FORCE THE PINCH WHEEL LEVERS BACK BY HAND. Now put the full tape around the left spindle, having unwound some two feet of tape, thread the tape around the left tension arm past the front of the heads, around the right tension arm and from there to the take-up reel on the right spindle. Be sure that the magnetic side of the tape faces the sound heads!
+
+Different tape brands are available, requiring a given "bias" (high frequency premagnetization) and “equalization” (frequency response adjustment of the record section) for optimization of the recording quality for that tape.
+
+This is the reason why it is preferable to leave the recorder (on fact the headblock SHD) adjusted for the tape you intend to use.
+
+Bur, considering two main classes of the magnetic oxides of current tapes (“standard" and "low noise") requiring each a typical adjustment, it is not essential to readjust if you change the brand, but keep the same class, preferably of course the "low noise", which may be typically recognized by their glossy oxide side.
+
+** Instructions for Use of the Abr Large Reel Adaptor Kit
+
+Place the sp 8 taperecorder with its plastic lid open (or removed) on the admcor base plate until it rests against the locating pins (2). clamp it to the base plate using the fasteners (3). screw both reel holders (4) to their respective threaded studs on the base plate. add the intermediate pieses (code: ABR Q for the SQ 8 only). place the supply reel (6) and the takz-up reel (7) on the spindles and fasten using the knurled hold~-down pulieys (8) and (9). use the larger groove for 10 4" reels and the smaller groove for 7" reels (13). use the intermediate parts (code: ABN) for the nae netal reels having a large center hole.
+
+Screw the two teflon guide pulleys (5) to the sp 8's reel spindles, tightening them firmly. thread the tape according to the tape path (12) and attach the two belts (10) and (11). remove the belt (11) whenever rewinding. remember to brake the right reel gently by hand when stopping the recorder from "rewlnd".
+
+NAB adaptors are available for use with NAB large hub reels (code: ABN).
+
+To remove the sp 8 it is not necessary to dismantle the reel holders (4). The machine may be slid out from under them.
+
+Reels up to 12" diameter (ø 30 cm) may be used with some care!
+
+TO REWIND REMOVE BELT (11)!
+
+#+ATTR_Latex: :Placement [!Htb]
+#+Caption: Abr Large Reel Adaptor
+[[file:img/4.ABR.png]]
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+** Timetable for different speeds and reel sizes
+
+| *Tape type*          | 38 cm/s  (18 ips) | 19 cm/s  (7½ ips)  | 9.5 cm/s |
+|--------------------+-------------------+--------------------+----------|
+| Reel 13cm  5"      |                   |                    |          |
+| Standard           | 7.5 min           | 15 min             | 30 min   |
+| Long Playing LP    | 11.25 min         | 22.5 min           | 45 min   |
+| Double Playing DP  | 15 min            | 30 min             | 60 min   |
+| Triple Playing  TP | 22.5 min          | 45 min             | 90 min   |
+|--------------------+-------------------+--------------------+----------|
+| Reel 26.5 cm  10½" |                   |                    |          |
+| Standard           | 30 min            | 60 min             | 120 min  |
+| Long Playing LP    | 45 min            | 90 min             | 180 min  |
+| Double Playing DP  | 60 min            | 120 min            | 240 min  |
+| Triple Playing  TP | 90 min            | 180 min            | 360 min  |
+
+
+
+* 5. Selection of speed and headassembly
+
+** 5.1 Selection of Speeds
+
+The speed selector switch is located on the right hand panel. It permits the selection of the 3 standard speeds 3¾, 7½ and 15 ips, the major applications of which are as follows:
+
+*3¾ ips* (9.5 cm/s) - for extended recording time when top quality is of minor importance
+
+*7½  ips* (19 cm/s) - The most often used tape speed, assuring excellent sound quality yet still affording a low tape consumption and satisfactory recording time.
+
+*15 ips* (38 cm/s) - This is the common speed for studio recording, offering the best in sound quality and ease of editing. Accordingly it is recommended when optimum results are desired or when the tape is to be later processed in a recording studio. Only this speed is used by the STELLAMASTER SM 8 recorder.
+
+*Ext*. - This selection leaves the motor free at its maximum unstabilized speed, allowing:
+a) to choose any speed (see below)
+b) the use of the speed variator ASV described hereafter
+
+Up to serial No. 761.801 a 30 ips speed was installed in place of the "EXT." This may be supplied on special order.
+
+The exact speed can be checked by means of the stroboscopic discs on top of the tension arm rollers. The speed can be adjusted by turning a slug, accessible through a guide hole on the right hand panel. Adjustment of the speed by a few percent plus or minus is possible, permitting a change of pitch whenever desired or necessary.
+
+For greater speed changes, a capacitor can be connected to the receptacle labelled "Z'" located under the speed selector switch. By electronic means, the speed may even be varied between 2 and 30 ips! For speeds up to 15 ips, a power supply of 15 volts is sufficient; it must be 24 volts for higher speeds.
+
+** 5.2 Speed Variator ASV
+
+*General*
+
+The ASV unit was designed to provide the following additional possibilities:
+a) continuously variable speed
+b) 1⅞ ips tape speed
+c) Remote start/stop control
+
+The ASV is also intended for use at the standard speeds available on the machine directly, but through the switches which are provided for that purpose. The ASV plugs into the coaxial socket marked "Z" below the speed selector.
+
+*Operation*
+
+Plug the ASV into the coaxial socket "Z" using the connecting cable provided for that purpose.
+
+Switch all toggle switches into their DOWN position.
+
+Set the STELLAVOX speed selector to "EXT." (30 ips prior to No. 761.801)
+
+The control knob on the ASV will now provide continuous speed control from approx. 1⅞ ips to approx. 30 ips.
+
+*NOTE*: Remember that 30 ips is NOT possible when the recorder 1s powered either from batteries or the APS 8 power supply. An external supply of approx. 24V DC is needed.
+
+Switching any of the toggle switches, one at a time, into the UP position will make the recorder run at the indicated 4 speed (with some possible degree of error; perfect accuracy may be obtained by adjusting the ASV individually for the recorder). Switching the right-hand toggle switch into the "O" position will stop the machine.
+
+Only one toggle switch at a time is to be in the UP position (plus the stop switch as required).
+
+*NOTE*: The reason why the descrete switch positions cannot be as accurate as the speed selector in the recorder is that each recorder is individually calibrated, while all ASV units are identical; but it is quite possible to calibrate the ASV for one particular SP 8.
+
+** 5.3 Head Assembly SHD
+
+Note that changing the speed does not automatically change the equalization which is wired into the tape head assembly SHD. This means that for the speed chosen the corresponding head assembly should be plugged in. In most cases the universal speed of 74 ips will be used and with the 75 head assembly, even recordings at 3¾ ips and 15 ips give acceptable results, the 15 ips recording coming somewhat more brilliant and the 3¾ ips recording somewhat lacking in highs. Switchable head assemblies accommodating two speeds are available.
+
+The possibility of changing the head assembly represents a unique and considerable advantage as far as an instant adaptation to the various recording formats (even future) is concerned, in particular: mono full track and two track stereo. To the mono heads a sync. head (Neo-Pilot) may be added. For the stereo system, a center track for synchronization ("“Synchrotone") is available. The two sync. systems are not compatible between then, but the SYNCHROTONE, invented 1968 by STELLAVOX replaces, by its perfection, more and more the older Neo-Pilot.
+
+Aside form the main purpose of the synchronization tracks in motion picture work, it is feasible to use the additional track for many purposes, for instance signals for a slide projector.
+
+The third track ("Synchrotone") is also capable of audio recording for commentary (use the preamplifier APM), cues, etc. and also for the newly i adopted standard of "real-time" synchronization: See chapter 10.
+
+*CHANGING HEAD ASSEMBLIES SHD:*
+
+Remove its cover by removing the two flat head screws. Loosen the three Allen screws using the Allen wrench supplied and lift off the head assembly (it is normal that it requires ‘ a rather strong pull). Replace with another and re~fasten as described.
+
+*IMPORTANT*: Head assemblies may only be removed or installed when the machine is in its STOP position. Failure to adhere to this will cause Magnetization of the heads (which should then be demagnetized, for lowest tape noise).
+
+IT IS A GOOD PRACTICE TO DEMAGNETIZE THE SHD REGULARLY.
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* 6. Connection of microphones
+
+The recorders S:P 8, SM 8 and SI 8 have two complete recording/playback channels (four in the SQ 8) and each such channel has three inputs:
+
+*"MIXER" input:*
+The mixer input is provided on the "AUX" receptacle on the lef-hand panel, at a fixed level of 1.55 V (+ 6 dBm), high impedance 680 K, which may be connected to any suitable source, the Stellavox mixer for instance. This input can be mixed with the mike and line inputs of the same channel in the STEREO selection, and all together in the MONO selection.
+
+*"LINE" input:*
+Located on the "AUX" receptacle this input is adjusted by a separate (small round knob on the front panel) volume control, within 30 mV to 10V.
+This "LINE" input may be converted into a balanced microphone input by the small external accessory AMA or ALP 8, powered by the pin 6 of the "AUX" plug.
+
+*"MICROPHONE" input:*
+The balanced 200 ohms microphone input covers a level range from 0.2 to 60 mV (2 to 600 mV with the 20 dB attenuation).
+For each mike input a three position switch, located on the left side of the deck (do not forget the similar switches on the bottom of the SQ 8, an for channels 3 and 4) permits the following choices:
+
+- Position D for dynamic (or ribbon) microphones: the balanced input is floating.
+- Position T for powering parallel fed (AB) 12 V condenser microphones.
+- Position P for powering phantom 12 V microphones (or phantom 48 V optional with an additional built-in converter module).
+
+Note that the P or T selection automatically switches in attenuation of 0, 10 or 20 dB, according to internal wiring, as required (may be easily changed).
+
+*IMPORTANT*: It is quite normal that the potentiometer setting be typically somewhat higher when compared with other recorders. This is a consequence of the cascaded pot. circuits, for a broad sensitivity control. But the Max. sensitivity of the STELLAVOX recorders is similar to that of other recorders.
+
+*ATTENTION*: If the switch is inadvertently left in position (T), a few volts are present at the microphone receptacle which may be harmful to certain microphone types, e.g. very fragile dynamic ribbon microphones.
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* 7. Selection of microphones
+
+Since the STELLAVOX SP 8 is a professional recorder in every respect, it is important that only the best quality microphones be used in recording. Of course, there is a great number of microphones, more or less expensive, and the choice is often a matter of personal experience and preference. In any case the outcome of the recording depends to a large extent on the microphone used. Therefore, consult us, also for the microphone accessories.
+
+All condenser microphones may be directly fed by all STELLAVOX recorders and mixers, without any other accessory, and with same cable; simply switch the microphone selectors (left on the recorder deck) to the appropriate position (D, P or T). Do not forget the similar switches, at the bottom of the SQ 8 for channels 3 and 4.
+
+*VERY IMPORTANT:* Dynamic microphones with their low sensitivity (0.1 to 0.2 mV/μbar) may require a high potentiometer setting, especially for weak sounds, so that the S/N (signal-to-noise) ratio is not as good as it could be. Then use the STELLAVOX preamplifier "APA", plugged between the microphone and its cable, increasing the gain by 20 dB. Switch the microphone selector to (T) to feed the APA.
+
+* 8. Monitoring headphone and line outputs
+
+The "OUTPUT" receptacle features at pins direct 1 and direct 2 the low impedance outputs ( < 10 ohms) of the recording amplifiers SOC or the playback amplifiers, depending on the position of the switch "DIRECT- TAPE", located on the front panel of the SP 8, for the channels I and II. The outputs are single ended, (unbalanced, complementary output stages with very low distortion and broad-frequency response) with a nominal output level of 1.55 V (+6 dBm), max. 3.8 V (+14 dBm).
+
+The DIRECT-TAPE" switch of the SQ 8 is located on the right~side panel, and operates all the four channels.
+
+For certain purposes it is desirable to have these lines balanced and at a somewhat higher output level. Such applications as feeding a telephone line, interfacing with a system in which a relatively long cable is. involved etc. The SP 8 is available on option with a double output transformer which permits standard line levels +6 and +15 dBm (1,5 and 4,4 V). The outputs are on 6 banana jacks on the right panel.
+
+These output transformerarse not recommended for the SM 8 and SI 8 recorders, as they somewhat alter the phase. Their installation inside the SQ 8 is not possible.
+
+The contacts phone 1 and phone 2 of the "OUTPUT" receptacle are connected to the direct outputs 1 and 2 via 150 ohm resistors allowing the connection of headphones with a large spread of impedances, 200 to 2000 ohms, and providing satisfactory listening level. A volume control for the listening level at the jack output has been provided and is installed just above the jack output (stereo) on the rear right panel.
+
+* 9. Connection to other equipment
+
+The STELLAVOX SP 8 is most often used with one or two microphones but there are other applications (for the SQ 8 everything is doubled):
+
+*Recording* (or monitoring with built-in loudspeaker) (or use of SP 8 as line amplifier)
+The portable professional STELLAVOX mixer is connected to the "AUX" receptacle of the SP 8 and adds a whole group of inputs to the SP 8. Two more microphones can be connected to the mike receptacles and controlled separately with volume controls I and II.
+
+Other sound sources (e.g. taperecorder, tuner, amplifier, etc.) can be connected to the "AUX" receptacle (2). Both channels are individually adjustable with both line volume controls ("LINE 1 + LINE 2"), (microphones with AMA or ALP 8).
+
+With the "stereo with synchrotone" version of the SP 8, a third track with its input and output labelled "pilot" is available at the
+"SYNCHRO" receptacle. Similarly for mono versions including the neo- pilotone sync. head.
+
+*Playback* of a recorded tape (position "PLAY"')
+The outputs of the two channels can be taken off at the "OUTPUT" receptacle as described in section 8. Both channels are separated if switched to stereo selection and together with mono selection (DIRECT position of monitor switch only; level controlled by Ch l, Ch 2 gain controls).
+
+It is therefore quite easy to make a copy of a tape by connecting as follows: Prepare an interconnecting cable linking the "OUTPUT" of the playback machine with the "MIXER 1 and 2" pins of the "AUX" connector on the recording machine; in that way both outputs and inputs aré properly matched.
+
+* 10. Synchronizing
+
+Professionals using synchronizing are well informed about basic principles, therefore, we only give the explanations of the particularities and the possibilities offered by the SP 8 recorders.
+
+The mono tape headassembly (full track) 1s equipped with the conventiomal neo-pilot head. It is absolutely compatible with other similar sound equipment. The pilot signal of 1.2 to 1.8 volts, 50 or 60 liz, is injected into the “pilotTM input at the "SYNCHRO" receptacle. The presence and magnitude of the pilot signal is indicated with the small meter “pilot” located on the front panel. The first red zone corresponds to an insufficient signal, the green zone to a correct level. The pilot input impedance is high (several k-ohms) so that the resistance of the synchronizing cable from the camera wili have no effect. On playback the amplified signal from the pilot head is connected to the “pilot" pin of the "EXTERNAL" receptacle, but only if the module SX 023 or SXy 123 or SQS is plugged in the SP 8.
+
+The stereophonic tape head assembly cannot be fitted with a neo-pilot head because there would be too much crosstalk on playback. Consequently a third track (0.4 mm.) has been provided in the center between the two stereo tracks (SYNCHROTONE ~ patented). Special precautions are taken, so that the crosstalk characteristics are better than those of classic neo-pilot system. An additional advantage is the feasibility of recording not only 50 or 60 Hz signals, but the complete audio spectrum. Impulse controls (e.g. slide projector: Code ASP), time base for instrumentation or synchronous commentary (a micro preamplifier APM is available) may be recorded.
+
+IMPORTANT: The SYNCHROTONE will accept without difficulty the future “real-time coding" impulses.
+
+A small micro-preamplifier APM is available to record the synchroteone track from a microphone. The APM is plugged to the "SYNCHRO" and “EXTERNAL" plugs.
+
+** 10.1 A Multi-function Plug-in Module: SXQ 123
+
+The SXQ is to be plugged into the double~socket provided in every SP 8 and SP 7 machine. This module, featuring very low current consumption provides three functions:
+
+ Stellinform 7812.14/T/E
+
+Functions table for the SP 8 taperecorder equipped with the SQS synchronizer module
+
+[[file:img/10.1.SQS.png]]
+
+*Remarks*:
+
+The SP 8 in position Play and Sync int or ext mode does not function if there ls no reference signal.
+
+The playback pilot signal, if it was recorded (either in quartz mode or in pilot ext. mode), is in all cases present on the pilot output plug (External plug, pin 5).
+
+Dec.20.78
+
+The *high accuracy quartz crystal oscillator* (+ 1 x 107) provides 2,4576 MHz (or 4,9152 MHz) which is divided down to 60 Hz resp. 50 Hz, selected by a built-in switch. The square wave signal is converted to 1.5 V sine wave (for greatest separation) and feeds the pilot tone head during the RECORD and AUTOMATIC operation modes.
+
+Should an external pilot signal from either a camera or power trans~former be fed to the "pilot" input of the "SYNCHRO" connector on the SP 8, the crystal control is automatically attenuated and the external feed takes precedence. The presence of pilot signal, regardless
+of whether external or from the crystal oscillator, is indicated on the "pilot" indicator. THE PILOT SIGNAL GENERATOR MUST BE OF LOW IMPEDANCE ( << 50 ohms).
+
+The SXQ 123 is equipped with a small screwdriver switch (marked QUARTZ on/off) on the bottom plate of the SP 8 allowing "on" and "off" switching of the quartz crystal generator.
+
+When working with a camera equipped with a pilot generator and connecting cable to the taperecorder, we suggest you switch off the quartz of your taperecorder. Thus should the camera generator or the connecting cable fail, you will be able to see this immediately on the pilot indicator.
+
+Furthermore, when making music or other non~sync recordings, we suggest you switch off the SXQ 123.
+
+When working with crystal controlled cameras, do not forget to switch the SXQ 123 back to "on".
+
+The *reference oscillator* delivers to channel 1 a ~ 1 kHz O dB (1.55 V) tone when the fast forward toggle switch on the top plate is thrown
+to the left (Beep) or if a signal voltage of between +8 and +20 V is fed to the pin (Clapper) of the “SYNCHRO" connector. This control voltage may be obtained either from the STELLAVOX internal batteries (V. unst.) or from the camera supply: take care to the polarities:
+
+With the Mono/Stereo switch on the left side of the SP 8, at Mono the tone is recorded.on both channels, even with a stereo SHD fitted.
+
+DO NOT FORGET TO SWITCH BACK!
+
+The *pilot signal amplifier* raises the low pilot signal (approx. 60 uV) from the pilot head in position PLAY to about 1.5 V. This causes the "pilot'’ indicator to show during playback whether a pilot signal has been recorded. This 1.5 signal is available at the "pilot" pin of the "EXTERNAL" connector.
+
+COMPLETELY NEW is the following feature which provides new applications in the recording as well as film synchronous recording field:
+The synchrotone track (0.5 mm. wide between the two stereo tracks) has normal longitudinal magnetization, making it usable not only at low pilot frequencies, but throughout the audio frequency range with very low crosstalk to either sound track.
+
+As a result the SP 8 recorder provides a complete third track which may be utilized for many purposes such as commentary, sound effects, time markers, digital or analog coding, FM recording. etc. This system will provide the possibility of recording any synchronizing system which may be devised in the future, particularly “real-time coding".
+
+*CONCLUSION*
+
+Since the STELLAVOX stereo headassembly with synchrotone track may be readily used as a 2-track system in which each microphone is recorded on a separate track, allowing for change in level balance during playback, and since the quality level of the STELLAVOX stereo tracks exceeds those of previous mono machines, it is felt that the use of 2-track recorders even for mono use is the best solution to most problems.
+
+[[file:img/10.1.connectors.png]]
+
+** 10.2 The Built-in Synchronizer Module SQS
+
+Plugged inside the SP 8 in place of the SXQ gives the same functions plus the synchronization during playback, of tapes recorded with pilot information, either synchrotone or neo-pilot. The speed correction is max ± 3 % relative to the following references:
+
+- internal crystal of the SQS: bridge the pins 3 and 4 of the "SYNCHRO" receptacle with a dummy plug.
+- external signal, from the pilot-generator of a camera or from the line frequency from the power supply APS 8. This signal, 1 to 2 volts, must be fed to pin 4 "SYNCHRO". A switch on the bottom of the SP 8 allows to switch on/off the synchronizer, and the crystal’ but playback amplifier is always on.
+- see page 12a and 14a
+
+** 10.3 A Unit for Resolving Stellavox Neo-pilot or Synchrotone Using a Nagra SLO Synchronizer: ASO
+
+We provide a means of resolving tapes recorded with either neo-pilot or the exclusive STELLAVOX synchrotone (third track on stereo tapes) using  methods standard in the industry up to now: namely Nagra + SLO. The result is an adaptor unit, code name ASO, which is connected between the "synchro" and “external” outlets of the recorder and both connectors on the right side of the Nagra SLO and which permits any tape at any speed recorded with either neo-pilot or synchrotone to be resolved according to conven- tional methods. The ASO unit comes complete with all cables and plugs ready to operate.
+
+*IMPORTANT*: As great amplification is provided by the ASO circuits (to amplifiy the low played back voltage of the sync. head), a 2.2 ohm resistor must be soldered inside the ASO, parallel to the .01 nF capacitor at the rear of the printed card, if an SXQ 123 module is incorporated in the SP 8 (the SXQ provides already the amplification up to 1.3 volt). If no SXQ, the sync. head must be directly connected inside the SHD, to the pin "pilot" by simple resoldering.
+
+** 10.2.1 The Display of the Sync. Functions (SPECIAL DESIGN)
+(page 14a)
+
+is made by the following meters, switched by the small rotary switch located above the "PILOT" meter on the front panel (the "MOTOR" indicator is suppressed):
+
+- The level of the *pilot reference signal* (PILOT IN) by the modulometer I (left scale in volts).
+- The level of the *played-back pilot signal* (PILOT OUT) similarly.
+The speed correction (CORR.) is shown by both modulometers: left as positive percents, right as negative percents.
+- Also the LED between the line volume controls on the front panel lights only on correct synchronization.
+
+*IMPORTANT*: don't forget to re-establish the LEVEL position of the small rotary switch, in order to get the sound modulation displayed
+on the modulometers.
+
+
+[[file:img/10.2.front.png]]
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* 11. Modes of operation
+
+The mechanical and electronic functions of the STELLAVOX recorders are selected by the main six position control switch located at the right of the front panel. The functions are conventional but the following new features must be pointed out:
+
+The two levers carrying the tape guide rollers and the pinch wheel are electrically activated by the motor. They open automatically in position "REWIND" and they close in position "PLAY" ("TEST", etc.). In order to open the levers, switch momentarily into position "REWIND".
+
+NEVER ATTEMPT TO FORCE THE LEVERS OPEN BY HAND!
+
+In position "AUTOMATIC" (not available for the SQ 8 version) a new electronic device (module SGC) sets the recording level automatically to the correct value without distortion. The level relation between the two stereo channels is maintained, permitting the automatic recording of stereo music with high quality. The treshold of the automatic level control system is selectable by choosing the appropriate setting of the two volume controls for the source being recorded. This will depend both on the output level of the microphones used and on the sound level input to the microphones. Set the two potentiometers to a setting which in the "RECORD" position will yield approximately correct levels (turn the potentiometer which would not be in use fully counter clockwise).
+
+All important functions can be controlled from the front panel, without need of opening the cover over the deck (even rewind). Record in position "AUTOMATIC" when for any reason the manual controls, left in their position, cannot be operated.
+
+* 12. Special features
+
+In front of the deck accessible after opening the cover:
+
+a) To the left are both selector switches, for dynamic microphones (D), phantom 12 V (P 12) or optional 48 V (P 48), and AB condenser microphones (T). Always turn the switch back to position (D) unless condenser microphones are used exclusively. Otherwise very delicate dynamic or ribbon microphones may be damaged. The equivalent selectors for mike 3 and mike 4 of the SQ 8 are placed on the bottom of the recorder
+
+b) To the right is the combined on/off volume control for the amplifier of the built-in loudspeaker. Please note that the speaker is operational in all these positions: "TEST/RECORD/AUTOMATIC/PLAY" and can, therefore, also be used for monitoring purposes during recording. In the latter application the speaker volume must be set low enough to avoid accoustical feedback (Larsen effect), if the microphones are close.
+
+c) To the right of the headassembly is a toggle switch which, in its momentary position to the right, puts the recorder in fast forward
+speed (not operative in the "RECORD" function). The same switch pushed to the left will inject a  1 kHz tone at reference level into channel I when the recorder has been equipped with the SXQ 023 (or SXQ 123 module, or with the SQS module). (The tone is recorded on channel I and II with the Mono/Stereo switch in Mono position,
+
+d) On the left panel, between both mike inputs, there is a switch "MUSIC~SPEECH". In the "M" position the recorder frequency response is flat; in the "S" position the low frequencies are decreased (10 dB at 50 Hz) which is useful to cut low frequency noises; this operates on mike inputs only.
+
+e) On the left-hand panel is located a small screwdriver-switch "MONO- STEREO", paralleling both channels in the mono-mode, and leaving them completely independent in the stereo-mode, the modulometer being also switched similarly. Normally the mono selection matches a mono SHD headblock, but the mono selection may be used to playback with a stereo headblock for mixing a stereo record or to record "double-mono" with a stereo headblock.
+
+f) On the right-hand panel there are the phone output stereo jack, monitored by its level control, and the banana line outputs (with the optional transformer line outputs).
+
+*Editing facility*
+
+When the SP 8is in playback mode, the pressure roller may be disengaged by pulling it away from the capstan and pulling up on the button atop the pressure roller arm. The tape may now be shuttled by hand while listening on the speaker or phones. When the exact spot where a cut is to be made is located, rotate the iteft guide roller until one of the black dots just appears at the upper metal cover. Now slowly move the tape to the left until the next dot appears. At this time the spot to be cut is precisely under the black dot at the front of the SHD headassembly, permitting either a cut using scissors or marking with a grease pencil.
+
+In that way the "mechanical" start-stop of the tape, for recording editing or playing-back may be done without the switching "clicks", the tape running instantly when the button is Pressed down in PLAY/ RECORD /AUTOMATIC.
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* 13. Description of modules
+
+The various functions of the plug-in modules are clarified by referring to the block diagram but their understanding is not necessary for the correct use of your recorder. The modules are accessible after removing the bottom plate of the recorder, held in place with 6 screws. To open the SQ 8 quadrosonic recorder, do not attempt to remove the bottom plate or the hinge; simply unscrew both screws located in front, left and right of both center main frames which are tightened together with these screws, then hinge the SQ 8 open.
+
+Note that the audio electronicosf the SQ 8 are the double of those of the SP 8 recorder.
+
+*IMPORTANT*: Note that SM 8 version uses a different bias frequency (128 kHz) from that used for the standard SP 8 line. Therefore, bias oscillator module SBC and filter module SIZ are different and cannot be interchanged.
+
+The small audio voltages, generated by the microphone after passing through the input transformer in the SJK module are amplified by the preamplifier SPC and regulated by the potentiometer, after which they are amplified further to a level of 1.55 volts 3.8 volts max.) by means of the SOC amplifier. The SOC and SPC are combined into one encapsulated plug-in unit. Both channels are identical. The signal is then connected to the "DIRECT/TAPE" switch further to the section 1 (resp. 2) of the SWR module controlling the peak-to-peak meter 1 (resp. 2) and then to the recording head via the RF-filter in the SIZ module and the equalizing filters in the tape headassembly SHD. The second channel in the mono selection is paralleled by the mono/stereo switch.
+
+In the "AUTOMATIC" recording position the SGC module is activated, feedback controlling the gain of the SPC as a function of the output level of the SOC.
+
+Module SBC contains the high frequency oscillator for bias and erasing. The amount of high frequency bias is individually adjusted for each recording head with two capacitors inside the SHD assembly in such a way that in case of a headassembly exchange no realignment of the bias is necessary. This is a new and exclusive feature of the STELLAVOX SP 8, but this is valid only for the standard SP 8 recorders. For SM 8 and SQ 8 recorders, the bias fine adjustment is controlled by the coils of the record section of the SIZ (128) module. This precludes the interchangeability of the headblocks SHD (for the SM 8 and SQ 8) unless factory adjusted for a given recorder.
+
+Headassemblies which are intended for interchangeable use with a particular SP 8 unit should be calibrated with that particular unit, if optimum results are to be achieved. If an additional SHD headassembly is obtained at a later date, it is recommended that the SP 8 be returned for fine calibration of the new assembly. Consult your dealer for latest information on this point.
+
+The signal coming from the playback head is amplified by another preamplifier SPC; the frequency response determining components of the feedback path are again in the SHD assembly.
+
+At this point the amplified and equalized signal, from the SPC PLAY, is fed to two circuits:
+a) either to the SOC record amplifier, so that the signal is controlled by the potentiometer, metered by the modulometer and fed to the "PHONE" jack and to the "OUTPUT" plug via the "DIRECT/TAPE" switch.
+b) or through a fixed divider equivalento the pot. zero dB ratio, to the SOC PLAY amplifier, which in turn feeds the “DIRECT/TAPE" switch.
+
+As a result: during recording meters and phones and outputs (but not the transformer outputs; always "DIRECT" optionally to the incoming ("DIRECT") back signal ("TAPE").
+
+During playback the amplification is fixed in the "TAPE" position, equivalent to the pot. 0 dB position. In the "DIRECT" position, the amplification is controlled by the pot volume controls.
+
+he SVC module contains a regulating circuit for the power supply and furnishes two independent regulated voltages of 13 volts for the audio circuits and 8 volts for the motor driving servo circuits. The latter is sufficiently low to allow maximum operating time for the batteries and a safety margin for the function of the motor.
+
+The module SLE is a power amplifier (PNP-NPN push pull circuit) for the built-in loudspeaker. It is capable of putting out one to two watts, ; depending on the power supply voltage. The loudspeaker impedance is 4 16 ohms.
+
+The circuits for the electronic speed control of the motor are a new patented development. A photo-electric sensor delivers a signal related rotor to the STF module where the to the speed of the special motor's signal is treated and amplified to control the SMU servo amplifier, which supplies current to the motor.
+
+There is the optional module SXQ 123, already described, containing a crystal oscillator and a divider chain to obtain a precision pilot signal of 50 or 60 Hz, alternatively the SQS for playback synchronization, and pilot recording.
+
+he STELLAVOX recorders can be started by remote control through the pin "STOP" of the "EXTERNAL" receptacle. The motor stops when a connection between ground and this pin is made and it starts practically instantaneously (0.1 s start up time from standstill to nominal speed) when this connection is opened.
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* 14. Maintenace of the SP 8
+
+The STELLAVOX recorders are quite robust but should still be treated with the care deserved by machines of such precision and complexity. In particular, attention must be paid to proper operation and as much protection as possible from sand, water and shocks.
+
+The tape head front surfaces should be cleaned from time to time with a soft cloth, perhaps moistened with alcohol. This operation is easiest when the tape headassembly is removed from the deck (remove the two screws holding the lid of the SHD; then unscrew the three recessed captive screws and pull SHD head off vertically). Clean the pinch roller with alcohol.
+
+*IMPORTANT*: The recorder should always be in the "STOP" position when the headassembly is exchanged. Otherwise the tape heads may become magnetized. Such residual magnetism will reduce the signal to noise ratio. It is a simple operation to remove the magnetism with a demagnetizer, available in electronic parts stores. It is preferable to remove the headassembly from the recorder for demagnetization. The AC-current of the demagnetizer should not be switched off before the headassembly is at least two feet away from the unit. All other parts of the recorder with which the tape is in physical contact are made out of antimagnetic materials (excluding the capstan) and do not require demagnetization.
+
+The STELLAVOX recorders contain numerous precision ball bearings, lubricated for life and sealed against dust. All other bearings are self~lubricating for many years, using special oils in sintered metals. The felt brakes also have a very long life but can easily be replaced if it becomes necessary. The motor brushes are subjected to very little abrasion but can just as easily be replaced. Since they are working against a flat and not a cylindrical surface, preshaping is unnecessary.
+
+In short, the SP 8 should be treated like you would treat a professional camera; the batteries are to be removed when the recorder will not be
+used for several months. Check the tape heads regularly and never clean. them with a hard or metallic tool. Watch the correct polarity when inserting new batteries or conmecting an external power supply.
+
+ALWAYS REMOVE THE BATTERIES BEFORE COMMENCING ANY WORK ON OR INSIDE THE SP 8, IN ORDER TO AVOID HARMFUL SHORT CIRCUITS:
+As a safety precaution, a 630 mA fuse is provided as well as a protection resistor of 5 ohms in the input line of the SVS. Use only same size replacements for the fuse.
+
+BEFORE INSERTING A MODULE IN ITS CORRESPONDING CONNECTOR, MAKE SURE THAT THE CONTACTS OF THE MODULE FACE THE CONTACTS OF THE CONNECTOR. ‘OTHERWISE, THE INSCRIPTIONS OF THE PC-BOARD WILL CAUSE A SHORT CIRCUIT:
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* 15. Basic circuitry
+
+The block diagram delivered with your recorder contains all necessary details for the use and full understanding of your recorder. We will not furnish schematics of the encapsulated modules themselves.
+
+* 16. Quality control certificate
+
+A test report is supplied with each machine showing the nominal specifications to be met by every recorder and in the next column the actual measured values of your specific recorder. Numerous in~production checks keep all compounds within close tolerance so that even in the worst possible case, the combination will show the minimum specifications guaranteed, which are above present professional standards.
+
+It should be kept in mind that some figures may be found different according to the measurement standards or reference tapes used. In case of difficulty, please contact us.
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* 17. Accessories
+
+The following accessories are available:
+
+*APS 8* AC-line-power-supply, 23 V DC stabilized voltage, max. 300 mA for supply and charging. Delivers also 1.3 volt AC for sync. purpose. With voltage selector for AC line voltages from 110 to 260 V, 50 and 60 Hz.
+
+*ABR* Large reel adaptor kit up to ¢ 12" (300 mm.).
+
+*ABN* ntermediate pieces for NAB metallic reels with large center hole.
+
+*ABR Q*. Large reel adaptor for SQ 8.
+
+*ARU* Synchronizing unit (resolver) operating on either AC power or batteries. Can be replaced by the SQS.
+
+*AMI 48* Portable, battery-operated stereo mixer with five inputs, two Outputs, pan-pots for each input, self-contained power for five AB powered microphones, converter for powering 12 V and 48 V phantom condenser microphones, very accurate 880 Hz tuning fork reference, cue selectors and exclusive patented limiters on each channel, balanced line outputs, dual peak indicating meters, many equalization facilities - size is identical to SP 8 case - see special descriptive leaflet.
+
+All types of microphones, earphones, batteries, cables, etc.
+
+*ALC* Sturdy leather carrying case.
+
+*ALS* Carrying strap. It consists of a leather belt with five evenly spaced holes at one end and two at the other. Two sets of threaded stud fasteners with nuts are also supplied.
+
+*USING THE "ALS'' WITHOUT LEATHER CASE*
+
+Place the STELLAVOX SP 8 on a table in front of you. Insert the ALS end with the two holes through the LEFT corner strut next to the peak indicating meters so that the black side of the belt is on the outside. Fasten, using the longer of the two threaded fasteners, when such is available. The nut goes on the outside (black side) of the ALS. Now do the same on the right, using the strut in the center of the right-hand SP 8 panel. Insert from the back, coming forward. This side may be adjusted for proper carrying length.
+
+*USING THE "ALS" WITH THE ''ALC" CASE*
+
+Installation is identical to the instructions given above, with the following exceptions:
+- The right-hand end of the strap must be threaded first through the slot of the carrying case, then around the strut and back out through the slot.
+- The left-hand end of the strap is to be fastened to the carrying case by inserting the threaded stud through the hole provided in the case flap after passing it through the two Layers of the strap. This prevents the case from falling off when it is open and the SP 8 is carried on the shoulder.
+
+NB: It will be necessary to soften up a corner of the right-hand end of the strap in order to be able to get it around the right-hand strut.
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* 18. Warranty
+
+STELLAVOX warrants that this device is free from defects in material and workmanship and that it meets published specifications, according to our standards and tapes.
+
+This machine is guaranteed for a period of one year from the date of sale according to the following conditions:
+
+1) All defects of material or workmanship will be repaired without charge provided all directions for use and servicing are observed and the defects are not caused by damage in shipment or subsequently. All repairs required due to improper operation will be invoiced.
+2) The guarantee is limited to repair or exchange of the defective parts and proper careful check-out of the unit. No liabilities are assumed for loss of income or freight expenses.
+3) Proper function of the device cannot be guaranteed unless the proper accessories, such as magnetic tape, microphones, etc. are used and the operating instructions are exactly observed.
+4) Damage caused through battery corrosion to equipment operated either with dry cells or accumulators is not covered by this guarantee. Such damage may be avoided by observing the operating instructions.
+5) STELLAVOX reserves itself the right of further modifications and improvements. That does not bind STELLAVOX to execute under warranty further improvements and modifications on earlier delivered recorders and their accessories.
+6) No equipment may be returned to us without our prior consent. Always indicate the model and serial numbers always use the original packing material in communicating with us and when shipping.
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* 19. Helpful hints for better recordings
+
+It is very easy to make wonderful recordings, after some practical experience, by observing the following simple rules:
+
+- Clean and demagnetize regularly the sound heads.
+
+
+- Use high quality tape, preferably the brand for which your taperecorder was adjusted.
+
+
+- Before recording, check carefully each part of the equipment, including cables and microphones.
+
+
+- Be sure of your batteries and always have a spare set of long life batteries for emergency.
+
+
+- Select the proper microphone and avoid extraneous noises by correct installation (elastic suspension). Choose the best location by listening carefully to the sounds to be recorded, at all possible installation points, before attempting to install.
+
+
+- Battery operation avoids possible noises sometimes encountered from line supply. This allows greater freedom in choosing the place where to install the recorder for best visibility and shortest cable (long cables may be used without difficulty, but might introduce line interference).
+
+
+- Close recording has greater presence, and improves the ratio of wanted sound/noise.
+
+
+- For long recording sessions use the ABR and large reels and have supplementary tape reels (including empty) ready, in order not to waste time rewinding.
+
+
+- Once a year and before very important recording sessions, check (or your nearest dealer could check it for you), eventually readjust, the main figures of your recorder, as azimuth of the heads, frequency response, distortion, S/N ratio, speed, wow + flutter. The universal instrument FERROGRAPH RTS 2 allows all these measurements.
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* 20. Service
+
+Much equipment returned DOES NOT need service. See checklist BEFORE returning your equipment for service.
+
+** Recorder does not start:
+- are batteries installed? Check voltage.
+- are battery contacts good? Clean them.
+- is fuse (inside the recorder) good? Replace it.
+
+** Motor runs, but no tape movement:
+ - editing stand-by button on the pinch wheel lever not pressed down.
+
+** Everything runs, but reels not driven:
+- broken belt (inside): Replace it.
+
+** No (or poor) signal from the microphone:
+- incorrect feed: left switches on the deck (do not forget those on the bottom of the SQ 8 for channels 3 and 4)
+
+** Poor sound overall (tape) but correct "direct sound"
+- proper tape used?
+- correct location of the tape, oxide inside, against the heads?
+- heads clean? Very important!
+
+** Poor sound (direct); intermittent contacts
+- in case of any electronic difficulty, sound or drive, check and clean carefully the contacts of the plug-in modules (inside). Replace them exactly at the same place and in the same orientation they were.
+
+** Incorrect treble content
+- inadequate speed; use the speed your headblock was adjusted for.
+- incorrect azimuth; readjust (check playback azimuth, then record azimuth).
+
+** Echo effect (by “tape" monitoring)
+- microphone too near the monitoring headset or the recorder speaker; turn off the speaker, increase the distance.
+- Impedance of the headset too low; replace it; should be more than 200 ohms for each cup.
+- In severe difficulties, record in the "direct" position.
+
+** Clicks
+- Arise when switching into or from the RECORD position; may be fully suppressed by stopping and starting with the stand-by button or somewhat discarding the tape (2 mm. is sufficient) away from the record head. Switch over by discarded tape.
+
+**  Hum on connection with other equipment
+- ground loops are very often the reason: check them and suppress them.
+- electric and mechanical grounds should normally NOT be connected together. This is also valid for the cable of the power supply APS 8.
+
+For any technical information please ask your dealer or contact us: STELLAVOX - CH~2068 HAUTERIVE - Phone: 038 / 33 42 33 - Telex: 35380
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* Addendum concerning SXQ 123
+(page 12a)
+* Addendum display synchronisation functions
+(page 14a)
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+
+* Block diagram
+
+1. Speed selector
+2. Shoulderstrap~shaft
+3. Volume pot. headphone
+4. Supply reel
+5. Hinge
+6. Batteries, set of 15
+7. Loud speaker
+8. Left roller arm
+9. Equalization selector
+10. Headblock
+11. Take-up reel holder
+12. Top deck
+13. Lock catch
+14. Capstan
+15. Pinch wheel arm
+16. Pinch wheel
+17. Loudspesker volume~control
+18. Tension roller, right
+19. Plug for varistor ASV
+20. Speed adjustment, access screw
+21. Line output left channel
+22. Line output right channel
+23. Jack for headphone
+24. Ground
+25. Take-up reel
+26. Lock for battery lid
+27. Battery lid
+28. Supply reel holder
+29. Power supply socket
+30. “Synchro” socket
+31. Direct output
+32. Mixer/line input
+33. Mono-stereo switch
+34. Mike input 2
+35. Speech-music switch
+36. Mike input 1
+37. Tension roller left
+38. Shoulderstrap-shaft
+39. Modulometer protection iid
+40. Stabilizing roller
+41. Att. selecting channel 1
+42. Mike selecting knob 1
+43. Modulometer light
+44. Mike selecting knob 2
+45. Double moduiometer
+46. Act. selecting channel 2
+47. Measurement selector
+48. Pilot meter
+49. "Synchro" led
+50. Channel 2 line level control
+51. Channel 1 Line levei control
+52. Battery voltage switch
+53. Tape-Direct switch
+54. Modulometer light switch
+55. Channei 1 level control
+56. Channel 2 level control
+57. Fast forward and "Beep" switch
+58. Body frame, superior
+59. Body frame, inferior
+60. Function selector
+
+
+#+BEGIN_export latex
+\clearpage
+#+END_export
+
+* Notes
+
+This is an unofficial version of the Stellavox SP8 (etc) operating manual that has been reconstructed from notes, scans and partial transcriptions in the hope it may be useful. There are almost certainly transcription errors, missing data and unreadable 1bit diagrams…
+
+Any corrections, additions or comments → https://github.com/zzkt/stellavox
