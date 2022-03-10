@@ -5,7 +5,7 @@
 This unofficial version of the Stellavox SP8 manuals has been reconstructed from notes, scans and partial transcriptions in the hope it may be useful. There are almost certainly transcription errors, missing data and unreadable 1bit diagrams…
 
 - [[https://github.com/zzkt/stellavox/raw/endless/Stellavox%20SP8%20Operating%20Manual.pdf][Stellavox SP8 Operating Manual]]
-- [[ https://github.com/zzkt/stellavox/raw/endless/Stellavox%20SP8%20Service%20Manual.pdf][Stellavox SP8 Service Manual]]
+- [[https://github.com/zzkt/stellavox/raw/endless/Stellavox%20SP8%20Service%20Manual.pdf][Stellavox SP8 Service Manual]]
 
 Any corrections, additions or comments → https://github.com/zzkt/stellavox
 
