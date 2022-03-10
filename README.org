@@ -23,7 +23,7 @@ notes on transcription/editing/formatting/updates/errata
 
 * edit → output
 
-The manuals are in org-mode format and can be exported to pdf from emacs. The LaTeX class `stellavox-manual` is required for  layout and can be added to `org-latex-classes`
+The manuals are in org-mode format and can be exported to pdf from emacs. The LaTeX class =stellavox-manual= is required for  layout and can be added to =org-latex-classes=
 
 #+BEGIN_SRC emacs-lisp :results output silent
 (add-to-list 'org-latex-classes
