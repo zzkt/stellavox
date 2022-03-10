@@ -19,9 +19,7 @@
 
 * Service Guide for Stellavox Sp 8
 
-This Service Manual may be completed anytime in order to match possible modifications or variations.
-For necessary improvements we reserve all rights for required alterations without prior notice.
-Please consult us if necessary.
+This Service Manual may be completed anytime in order to match possible modifications or variations. For necessary improvements we reserve all rights for required alterations without prior notice. Please consult us if necessary.
 
 STELLAVOX
 2068 Hauterive
@@ -55,21 +53,21 @@ IMPORTANT : please always quote equipment type and serial number when requesting
 
 |--------------------------------------------+---------------------------------------|
 | *Tape speeds*                                |                                       |
-| Minimum battery voltage supply for         | 76,2 cm/s (30 ips) = 24 V ext.        |
-|                                            | 38,1 cm/s (15 ips) <15Vv              |
-|                                            | 19,05 cm/s (7,5 ips) < 13             |
-|                                            | 9,5 cm/s (3,75 ips) < 13 V            |
-| Tape slip for 13 cm spool                  | < 0,1 %                               |
+| Minimum battery voltage supply for         | 76.2 cm/s (30 ips) = 24 V ext.        |
+|                                            | 38.1 cm/s (15 ips) <15Vv              |
+|                                            | 19.05 cm/s (7.5 ips) < 13             |
+|                                            | 9.5 cm/s (3.75 ips) < 13 V            |
+| Tape slip for 13 cm spool                  | < 0.1 %                               |
 |--------------------------------------------+---------------------------------------|
 | Tape spools                                | Cine max. 13 cm (5")                  |
 |                                            | (with ABR accessory 30 cm (12")       |
 |--------------------------------------------+---------------------------------------|
 | Sound height variation                     |                                       |
-| (DIN 45 507 : wow + flutter)               | 38,1 cm/s (15 ips) < 0,06             |
-|                                            | 19,05 cm/s (7,5 ips) < 0,09 %         |
-|                                            | 9,5 cm/s (3,75 ips) < 0,12 %          |
+| (DIN 45 507 : wow + flutter)               | 38.1 cm/s (15 ips) < 0.06             |
+|                                            | 19.05 cm/s (7.5 ips) < 0.09 %         |
+|                                            | 9.5 cm/s (3.75 ips) < 0.12 %          |
 |--------------------------------------------+---------------------------------------|
-| *Starting time from setting:*                | at 9,5 cm/s 19 cm/s 38 cm/s           |
+| *Starting time from setting:*                | at 9.5 cm/s 19 cm/s 38 cm/s           |
 | STOP to setting PLAY                       | ~ 1s                                  |
 | TEST to setting PLAY/RECORD                | ~ 0.1s                                |
 | (counter capstan locked in position)       |                                       |
@@ -88,7 +86,7 @@ IMPORTANT : please always quote equipment type and serial number when requesting
 | *Record channels with balanced micro-input:* |                                       |
 | Frequency response                         | 30 - 20,000 Hz, ± 1 dB                |
 | max. input level                           | 15 mv                                 |
-| max. sensitivity for 0 dB indicator        | 0,2 mv                                |
+| max. sensitivity for 0 dB indicator        | 0.2 mv                                |
 | Noise (weighed)                            | < -124 dBm                            |
 |--------------------------------------------+---------------------------------------|
 | *Adjustable line inputs*                     |                                       |
@@ -99,7 +97,7 @@ IMPORTANT : please always quote equipment type and serial number when requesting
 |--------------------------------------------+---------------------------------------|
 | *Unbalanced line output*                     |                                       |
 | Frequency response                         | 40 - 20,000 Hz, ± 1 dB                |
-| Output level                               | 1.55 V (max. 3,8 V)                   |
+| Output level                               | 1.55 V (max. 3.8 V)                   |
 | Impedance     (max. Load)                  | 200 Ohm                               |
 |--------------------------------------------+---------------------------------------|
 | *Headphone outputs*                          | 15 - 2,000 Ohm                        |
@@ -107,11 +105,11 @@ IMPORTANT : please always quote equipment type and serial number when requesting
 |--------------------------------------------+---------------------------------------|
 | *Balanced line output*                       |                                       |
 | Frequency response                         | 40 - 20,000 Hz, ± 1 dB                |
-| Output level                               | 1,55/4,4 V (6/15 dBm)                 |
+| Output level                               | 1.55/4.4 V (6/15 dBm)                   |
 | max. Load                                  | 200/600 Ohm                           |
 |--------------------------------------------+---------------------------------------|
 | *Automatic*                                  |                                       |
-| max. sensitivity                           | 0,2 mv                                |
+| max. sensitivity                           | 0.2 mv                                 |
 | {for 0 dB-indicator)                       |                                       |
 | Compression ratio                          | 1:56                                  |
 | Metering instruments                       | peak value indicator                  |
@@ -122,14 +120,14 @@ IMPORTANT : please always quote equipment type and serial number when requesting
 |                                            | headsblock electronics)               |
 |--------------------------------------------+---------------------------------------|
 
-** 1.2, Dimensions and weight
+** 1.2. Dimensions and weight
 
 |-----------------------------------------------+------------------------|
 | Overall dimensions  ( Height x Depth x Width) | 83 x 215 x 270 mm      |
 |                                               | (3.27 x 8.46 x 10.63") |
 |-----------------------------------------------+------------------------|
 | Gross weight with sound tape                  |                        |
-| Case and batteries                            | 5,2 kg (11.5 lbs)      |
+| Case and batteries                            | 5.2 kg (11.5 lbs)       |
 |-----------------------------------------------+------------------------|
 | Net weight                                    | 4 kg (8.8 lbs)         |
 |-----------------------------------------------+------------------------|
@@ -485,7 +483,7 @@ Through the use of encapsulated preadjusted circuits and amplifier modules no mo
 
 Speed-selection switch SSP and motor drive module SMU form among other thin; together a LC-link, as frequency-determining part of an oscillator circuit, from which the maintenance of the speed of rotation of the motor depends. Inductance and capacity of the LC-link are variable for the speed selection and vernier adjustment.
 
-The 4-step rotary switch controls the tape speeds 9,5/19/38 cm/s by matched capacities. In position EXT., the Z-socket provides for the external connection of a condensor or the remote control unit ASV 8. .
+The 4-step rotary switch controls the tape speeds 9.5/19/38 cm/s by matched capacities. In position EXT., the Z-socket provides for the external connection of a condensor or the remote control unit ASV 8. .
 
 The motor SMU module has a small opening, through which the variable ferrite core of a spool is accessible.
 
@@ -543,9 +541,9 @@ In the operation positions "PLAYBACK, TEST, RECORD and AUTOMATIC" the voltage st
 In the operation position "RECORD" and "AUTOMATIC" the bias oscillator and the clapper generator maintain their negative potential for ground (-), $ 2 Contact VIII (5) or VIII (6). Point 5 SBC, respectively, Point 7 SXQ.
 
 ** 6.3 Play: Drawing No. 64.03.0019.1.5
+<<6.3>>
 
-
-The circuit is described as single channel. On mono-operation the first amplifier stage of SPC module is connected to sound head carrier Point 2 on OV Sh (circuit of the SHD).
+The circuit is described as single channel. On mono-operation the first amplifier stage of SPC module is connected to sound head carrier Point 2 on OV Sh (circuit of the SHD). See circuit  [[No. 64.03.0018.1.5][No. 64.03.0018.1.5]]
 
 SHD, sound head play-back, Point 11, C 6,8 uF, Filter SIZ, SPC + SOC CH-1 Point 2 (in 1), SI IX (1,2,3) R 10 kOhm, C 6,8 uF, SPC + SOC Point 6 (in 2), Point 8 (out 2), C 220 uF, Point 6 switch TAPE/DIRECT, SWR,  Point 2 output socket.
 
@@ -569,9 +567,13 @@ AUX input: LINE 1, Point 1 Bu AUX, Pot 10 kOhm, Print 0085 Point 1, R 12 kOhm, P
 
 1000 pF: Here the signal supplies balanced the output amplifiers SOT over the switch TAPE/DIRECT Point 7 and 1 to Bu output and to SWR module Point 7 (in 1) and ‘to SGC module Point 2 (in 1).
 
+See circuit  [[No. 64.03.0018.1.5][No. 64.03.0018.1.5]]
+
 ** 6.5 Record: Drawing No. 64.03.0018.1.5
 
 In position RECORD of the operation switch the functions undergo the operation TEST with the following difference: SHD (Sh 6,4): the short circuit over 5 2 VITI (4) is lifted. Over S 2 VIII (5) the bias-oscillator SBC and synchronizer module SXQ receive negative potential and work.
+
+See circuit  [[No. 64.03.0018.1.5][No. 64.03.0018.1.5]]
 
 ** 6.6 Automatic: Drawing No. 64.03.0018.1.5
 
@@ -579,9 +581,14 @@ Possible internal rewiring of the STELLAVOX SP 8 results in two various operatio
 
 Description 2: detection over. 1000 pF, R 56 kOhm, SGC module Point 2 (in 1) SPC + SOC module Point 4 (out 1), S 1 IX (6), Pot. 10 kOhm R 6,8 kOhm 6,8 pF, Point 6 (in 2). Feedback: SPC-+ SOC Point 4, SGC Point 6, Point 7, SPC + SOC Point 3 (FB 1).
 
-** 6.7 Tape/Direct
+See circuit  [[No. 64.03.0018.1.5][No. 64.03.0018.1.5]]
 
-The functions of that switch are described under section 6.3 to 6.7. Recent equipments possess a relay, which lies in position TEST of the main switch at Point 6 of the "Tape-Direct" switch.
+** 6.7 Tape/Direct
+<<6.7>>
+
+The functions of that switch are described under section [[6.3]] to [[6.7]]
+
+Recent equipment  possess a relay, which lies in position TEST of the main switch at Point 6 of the "Tape-Direct" switch.
 
 ** 6.8 Mono/Stereo
 
@@ -595,6 +602,8 @@ Circuit: +b, button "Beep", synchrosocket, SQS or SXQ-module Point 6, circuit os
 
 LF-track: Synchromodule Point 3, C 6,8 uF, SPC + SOC module (Rec.) Point 6.
 
+See circuit  [[No. 64.03.0017.1.5][No. 64.03.0017.1.5]]
+
 ** 6.10 Condensor Microphone-Supplies: Drawing No. 64.06.0138.1.0
 
 Consider primary of the transformer: The A/B-circuit is decoupled with two 180 oHm resistors. They are connected to a 2-channel, 4=steps switch.
@@ -604,6 +613,7 @@ Consider primary of the transformer: The A/B-circuit is decoupled with two 180 o
 3. Phantom supply 12.Volt (P 12): From the Diode D2, the positive is connected to each R 470 Ohm on the contacts 3 and 9 of the step switch.
 4. Phantom supply 48 Volt (P 47): +48 V, SJK module Point 19, Diode D1, branching out on resistors 6,8 kOhm, contact 4 and 10 of the step switch, resistors 180 Ohm, A/B circuit.
 
+See circuit  [[No. 64.06.0138.1.0][No. 64.06.0138.1.0]]
 
 ** 6.11 Pre-Attenuations
 
@@ -897,6 +907,7 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 
 * Circuit
 ** Block Switching Diagram - No. 63.05.0201.7.0
+<<No. 63.05.0201.7.0>>
 
 *NOTE* this is the SP 7 block diagram
 
@@ -908,6 +919,7 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** Current Diagram "RECORD" - No. 64.03.0018.1.5
+<<No. 64.03.0018.1.5>>
 
 #+caption:  SP8 Record Circuit - No. 64.03.0018.1.5
 [[file:img/No.64.03.0018.1.5.jpeg]]
@@ -917,6 +929,7 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** Current Diagram "PLAYBACK" - No. 64.03.0019.1.5
+<<No. 64.03.0019.1.5>>
 
 #+caption:  SP8 Playback Circuit - No. 64.03.0019.1.5
 [[file:img/No.64.03.0019.1.5.jpeg]]
@@ -936,6 +949,7 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** Current Diagram "PILOT" - No. 64.03.0017.1.5
+<<No. 64.03.0017.1.5>>
 
 #+caption:  SP8 Pilot cuircuit - No. 64.03.0017.1.5
 [[file:img/No.64.03.0017.1.5.jpeg]]
@@ -945,8 +959,9 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** SJK 0137  & 0138 - No. 64.06.013[78].1.0
+<<No. 64.06.0138.1.0>>
 
-#+caption: SJK 0137 and 0138
+#+caption: SJK 0137 and 0138 - No. 64.06.0137.1.0 - No. 64.06.0138.1.0
 [[file:img/No.64.06.0137.1.0.jpeg]]
 
 #+BEGIN_export latex
@@ -954,18 +969,19 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** SIZ  - No. 00.06.0003.1.0
+<<No. 00.06.0003.1.0>>
 
-#+caption: SIZ
+#+caption: Location of filter module SIZ - No. 00.06.0003.1.0
 [[file:img/No.00.06.0003.1.0.jpeg]]
 
 #+BEGIN_export latex
 \clearpage
 #+END_export
 
-** SIZ 8  - No. 64.06.0009.6.0
+** SIZ 8 - No. 64.06.0009.6.0
  <<No. 64.06.0009.6.0>>
 
-#+caption: SIZ 8
+#+caption: SIZ 8 - No. 64.06.0009.6.0
 [[file:img/No.64.06.0009.6.0.jpeg]]
 
 #+BEGIN_export latex
@@ -973,11 +989,14 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** SHD - Mono Head
+<<No. 64.03.0023.1.0>>
 
-#+caption: Mono Head Assembly
+#+caption: Mono head assembly - No. 64.03.0023.1.0
 [[file:img/No.00.06.0023.1.0.jpeg]]
 
-#+caption: Location of SHD Mono
+<<No. 00.06.0025.1.0>>
+
+#+caption: Location of SHD Mono - No. 00.06.0025.1.0
 [[file:img/No.00.06.0025.1.0.jpeg]]
 
 #+BEGIN_export latex
@@ -992,7 +1011,7 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 
 <<No. 00.0006.1.0>>
 
-#+caption: Location of SHD Mono 2 Speeds - No. 00.0006.1.0
+#+caption: Location of SHD Mono 2 Speeds - No. 00.06.0006.1.0
 [[file:img/No.00.06.0006.1.0.jpeg]]
 
 #+BEGIN_export latex
@@ -1000,11 +1019,13 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** SHD - Stereo Head
+<<No. 64.03.0022.1.0>>
 
-#+caption: Stero hed assembly diagram
+#+caption: Stereo head assembly diagram - No. 64.03.0022.1.0
 [[file:img/No.64.03.0022.1.0.jpeg]]
+<<No. 00.06.0005.1.0>>
 
-#+caption: Location of SHD Stereo
+#+caption: Location of SHD Stereo - No. 00.06.0005.1.0
 [[file:img/No.00.06.0005.1.0.jpeg]]
 
 #+BEGIN_export latex
@@ -1012,11 +1033,13 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** SHD - Stereo Head 2 Speed
+<<No. 64.02.0010.1.0>>
 
-#+caption:  Stero 2 Speeds Head Assembly
+#+caption:  Stereo 2 Speeds Head Assembly - No. 64.02.0010.1.0 (?)
 [[file:img/No.64.02.0020.1.0.jpeg]]
+<<No. 00.06.0015.2.0>>
 
-#+caption:   Location of SHD Stero 2 Speeds
+#+caption:   Location of SHD Stereo 2 Speeds - No. 00.06.0015.2.0
 [[file:img/No.00.06.0005.2.0.jpeg]]
 
 #+BEGIN_export latex
@@ -1024,8 +1047,9 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** SQS - No. 63.02.0022.1.0
+<<No. 63.02.0022.1.0>>
 
-#+caption: SQS Synchoniser
+#+caption: SQS Synchoniser - No. 63.02.0022.1.0
 [[file:img/No.63.02.0022.1.0.jpeg]]
 
 #+BEGIN_export latex
@@ -1033,8 +1057,9 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** SQS Interconnects - No. 63.04.0022.3.0
+<<No. 63.04.0022.3.0>>
 
-#+caption: SQS printrd circuits interconnections
+#+caption: SQS printed circuits interconnections - No. 63.04.0022.3.0
 [[file:img/No.63.04.0022.3.0.jpeg]]
 
 #+BEGIN_export latex
@@ -1042,8 +1067,9 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** SQS 0113 - No. 64.06.0113.1.0
+<<No. 64.06.0113.1.0>>
 
-#+caption: SQS 0113 Input filters - logic for LED
+#+caption: SQS 0113 Input filters - logic for LED - No. 64.06.0113.1.0
 [[file:img/No.64.06.0113.1.0.jpeg]]
 
 #+BEGIN_export latex
@@ -1051,8 +1077,9 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** SQS 0114 - No. 64.06.0114.1.0
+<<No. 64.06.0114.1.0>>
 
-#+caption: SQS 0114 Comparator - Driver
+#+caption: SQS 0114 Comparator - Driver - No. 64.06.0114.1.0
 [[file:img/No.64.06.0114.1.0.jpeg]]
 
 #+BEGIN_export latex
@@ -1060,8 +1087,9 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** SQS 0115 - No. 64.06.0115.1.0
+<<No. 64.06.0115.1.0>>
 
-#+caption: SQS 0115 Crystal generator
+#+caption: SQS 0115 Crystal generator - No. 64.06.0115.1.0
 [[file:img/No.64.06.0115.1.0.jpeg]]
 
 #+BEGIN_export latex
@@ -1069,26 +1097,29 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 #+END_export
 
 ** SQS 0116 - No. 64.06.0116.1.0
+<<No. 64.06.0116.1.0>>
 
-#+caption: SQS 0116 Beep oscillator - converter - 13V
+#+caption: SQS 0116 Beep oscillator - converter - 13V - No. 64.06.0116.1.0
 [[file:img/No.64.06.0116.1.0.jpeg]]
 
 #+BEGIN_export latex
 \clearpage
 #+END_export
 
-** SXQ 0139 - PILOT AMPLIFIER AND CLAPPER - No. 64.06.0139.1.0
+** SXQ 0139 - Pilot amplifier and clapper - No. 64.06.0139.1.0
+<<No. 64.06.0139.1.0>>
 
-#+caption: SXQ 0139
+#+caption: SXQ 0139 - Pilot amplifier and clapper - No. 64.06.0139.1.0
 [[file:img/No.64.06.0139.1.0.jpeg]]
 
 #+BEGIN_export latex
 \clearpage
 #+END_export
 
-** SXQ 0120 - CRYSTAL OSCILLATOR - No. 64.06.0120.2.0
+** SXQ 0120 - Crystal oscillator - No. 64.06.0120.2.0
+<<No. 64.06.0120.2.0>>
 
-#+caption: SXQ 0120
+#+caption:  SXQ 0120 - Crystal oscillator - No. 64.06.0120.2.0
 [[file:img/No.64.06.0120.2.0.jpeg]]
 
 #+BEGIN_export latex
