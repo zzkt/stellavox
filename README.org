@@ -4,8 +4,70 @@
 
 This unofficial version of the Stellavox SP8 manuals has been reconstructed from notes, scans and partial transcriptions in the hope it may be useful. There are almost certainly transcription errors, missing data and unreadable 1bit diagrams…
 
+- [[file:Stellavox SP8 Operating Manual.pdf][Stellavox SP8 Operating Manual]]
+- [[file:Stellavox SP8 Service Manual.pdf][Stellavox SP8 Service Manual]]
+
 Any corrections, additions or comments → https://github.com/zzkt/stellavox
 
 [[file:img/stellavox_sp8-4.jpg]]
 
-*
+* edit → guidelines
+
+notes on transcription/editing/formatting/updates/errata
+ - use point rather than comma as [[https://en.wikipedia.org/wiki/Decimal_separator][decimal marker]] (check for OCR errors)
+ - fix obvious spelling errors e.g. 'aand' or 'the the'
+ - page numbers are linked to sections where relevant
+ - diagram links have been added
+ -  metric and/or imperial conversions added inline. e.g 38 cm/s (18 ips)
+ - some footnotes have been included inline
+
+* edit → output
+
+The manuals are in org-mode format and can be exported to pdf from emacs. The LaTeX class `stellavox-manual` is required for  layout and can be added to `org-latex-classes`
+
+#+BEGIN_SRC emacs-lisp :results output silent
+(add-to-list 'org-latex-classes
+             '("stellavox-manual"
+               "\\documentclass[11pt,a4paper,oneside]{memoir}
+\\usepackage{graphicx}
+\\usepackage[style=iso]{datetime2}
+\\usepackage{parskip}
+
+\\usepackage{enumitem}
+\\setlist{nosep}
+\\setlist[enumerate]{itemsep=2pt, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=2em}
+\\setlist[itemize]{itemsep=2pt, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=2em}
+
+\\usepackage[no-math]{fontspec}
+\\setmainfont{Fira Sans Book}[Ligatures=Common,
+                              BoldFont={Fira Sans Bold},
+                              ItalicFont={Fira Sans Book Italic}]
+\\setsansfont{Fira Sans Book}
+\\setmonofont[Scale=0.9]{Fira Code Light}
+
+\\usepackage{geometry}
+\\geometry{a4paper, textwidth=160mm, textheight=250mm, marginparsep=11pt, marginparwidth=15mm}
+
+\\setcounter{secnumdepth}{0}
+\\setcounter{tocdepth}{2}
+
+\\setcounter{figure}{0}
+\\renewcommand{\\figurename}{}
+
+\\setlength{\\parindent}{0em}
+\\setlength{\\parskip}{0.8em}
+\\renewcommand{\\baselinestretch}{1.1}
+
+\\pagestyle{Ruled}
+
+\\usepackage[colorlinks=true,linkcolor=cyan,menucolor=cyan]{hyperref}
+
+[NO-DEFAULT-PACKAGES]
+[NO-PACKAGES]"
+
+               ("\\section{%s}" . "\\section*{%s}")
+               ("\\subsection{%s}" . "\\subsection*{%s}")
+               ("\\subsubsection{%s}" . "\\subsubsection*{%s}")
+               ("\\paragraph{%s}" . "\\paragraph*{%s}")
+               ("\\subparagraph{%s}" . "\\subparagraph*{%s}")))
+#+END_SRC

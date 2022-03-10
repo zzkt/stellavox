@@ -136,9 +136,7 @@ TO REWIND REMOVE BELT (11)!
 | Triple Playing  TP | 90 min            | 180 min            | 360 min  |
 
 
-
 * 5. Selection of speed and headassembly
-
 ** 5.1 Selection of Speeds
 
 The speed selector switch is located on the right hand panel. It permits the selection of the 3 standard speeds 3¾, 7½ and 15 ips, the major applications of which are as follows:
