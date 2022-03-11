@@ -54,8 +54,8 @@ IMPORTANT : please always quote equipment type and serial number when requesting
 |--------------------------------------------+---------------------------------------|
 | *Tape speeds*                                |                                       |
 | Minimum battery voltage supply for         | 76.2 cm/s (30 ips) = 24 V ext.        |
-|                                            | 38.1 cm/s (15 ips) <15Vv              |
-|                                            | 19.05 cm/s (7.5 ips) < 13             |
+|                                            | 38.1 cm/s (15 ips) < 15 V             |
+|                                            | 19.05 cm/s (7.5 ips) < 13 V            |
 |                                            | 9.5 cm/s (3.75 ips) < 13 V            |
 | Tape slip for 13 cm spool                  | < 0.1 %                               |
 |--------------------------------------------+---------------------------------------|
@@ -84,19 +84,19 @@ IMPORTANT : please always quote equipment type and serial number when requesting
 
 |--------------------------------------------+---------------------------------------|
 | *Record channels with balanced micro-input:* |                                       |
-| Frequency response                         | 30 - 20,000 Hz, ± 1 dB                |
+| Frequency response                         | 30 - 20,000 Hz ± 1 dB                 |
 | max. input level                           | 15 mv                                 |
 | max. sensitivity for 0 dB indicator        | 0.2 mv                                |
 | Noise (weighed)                            | < -124 dBm                            |
 |--------------------------------------------+---------------------------------------|
 | *Adjustable line inputs*                     |                                       |
-| Frequency response max.                    | 30 - 20,000 Hz, ± 2 dB                |
+| Frequency response max.                    | 30 - 20,000 Hz ± 2 dB                 |
 | input sensitivity                          | 9V                                    |
 | Sensitivity for 0 dB-indicator             | 30 mV                                 |
 | Input impedance                            | 10 kOhm                               |
 |--------------------------------------------+---------------------------------------|
 | *Unbalanced line output*                     |                                       |
-| Frequency response                         | 40 - 20,000 Hz, ± 1 dB                |
+| Frequency response                         | 40 - 20,000 Hz ± 1 dB                 |
 | Output level                               | 1.55 V (max. 3.8 V)                   |
 | Impedance     (max. Load)                  | 200 Ohm                               |
 |--------------------------------------------+---------------------------------------|
@@ -417,7 +417,7 @@ Should the brass leaf spring on the take-up assembly be changed, oil the surface
 
 The driving force of the STELLAVOX-magnetic tape recorder SP 8 is a Stellavox servo-regulated direct current motor. The use of Samarium-cobalt for the stator as well as the special patented flat rotor are responsible for the high efficieny of the motor.
 
-The disc Shaped armature carries an axial commutator and a tacho-dise on its perimeter produces 400 bright-dark sectors, for the opto-electronic controlrange.
+The disc Shaped armature carries an axial commutator and a tacho-dise on its perimeter produces 400 bright-dark sectors, for the opto-electronic control range.
 
 The current is supplied over 6 brushes.
 
