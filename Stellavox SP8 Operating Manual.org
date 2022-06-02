@@ -21,7 +21,7 @@
 
 The portable professional taperecorder STELLAVOX SP 8 (standard model) allows studio quality recording on & tape under the most difficult conditions. In addition to the standard speeds, i.e. 3¾ , 7½ and 15 ips (30 ips on special order), all intermediate tape speeds may be chosen using the external accessory ASV. The modular system is most versatile and permits any recording format, be it monaural or stereophonic, with er without a special track for synchronizing, that depending upon the plugged heads-block SHD, interchangeable, the most used being: Mono / Mono-Pilot-Neo / Stereo / Stereo-Pilot-Synchrotone.
 
-With the frequency response reaching well into the subsonic range (down to 0 Hz with an FM converter) and into the ultrasound spectrum, the SI 8 is used for instrumentation purposes, and the STELLAMASTER SM 8 offers, by special high grade design, worid best recording and playback specifications.
+With the frequency response reaching well into the subsonic range (down to 0 Hz with an FM converter) and into the ultrasound spectrum, the SI 8 is used for instrumentation purposes, and the STELLAMASTER SM 8 offers, by special high grade design, world best recording and playback specifications.
 
 The QUADROSONIC recorder SQ 8 enables professional recordings of tremendous quality on location although weighing only 12 pounds and operating with quarter inch standard magnetic tape (battery operation).
 
@@ -40,8 +40,7 @@ All the above mentioned recorders are battery-(built-in) operated; a power suppl
 
 The self-contained power supply utilizes 15 penlight batteries, type AA (size: Ø 15 x 50 mm), available in three different types:
 
-The common carbon/zinc elements constitute a rather variable power source depending on the battery quality and the duty cycle. A lifetime of up to five hours can be expected for continuous operation and about twice as lon
-g when the recorder is not used more than 1/2 hour per day. We suggest the use of these batteries only when infrequent use of the recorder is anticipated or in emergencies. There is also the danger of leaking batteries if they are left in the recorder over a long period of time, and they do not operate at low temperatures. One of the following battery types should be preferred:
+The common carbon/zinc elements constitute a rather variable power source depending on the battery quality and the duty cycle. A lifetime of up to five hours can be expected for continuous operation and about twice as long when the recorder is not used more than 1/2 hour per day. We suggest the use of these batteries only when infrequent use of the recorder is anticipated or in emergencies. There is also the danger of leaking batteries if they are left in the recorder over a long period of time, and they do not operate at low temperatures. One of the following battery types should be preferred:
 
 Alkaline batteries with high capacity and long storage time (two years) are made by several manufacturers. The output voltage is nearly constant over the usable life and one can expect 13 hours of continuous recording time. These batteries can also be used at low temperatures where carbon/zinc elements become unusable. We suggest keeping one spare set of Alkaline batteries.
 
@@ -210,7 +209,7 @@ IT IS A GOOD PRACTICE TO DEMAGNETIZE THE SHD REGULARLY.
 
 * 6. Connection of microphones
 
-The recorders S:P 8, SM 8 and SI 8 have two complete recording/playback channels (four in the SQ 8) and each such channel has three inputs:
+The recorders SP 8, SM 8 and SI 8 have two complete recording/playback channels (four in the SQ 8) and each such channel has three inputs:
 
 *"MIXER" input:*
 The mixer input is provided on the "AUX" receptacle on the lef-hand panel, at a fixed level of 1.55 V (+ 6 dBm), high impedance 680 K, which may be connected to any suitable source, the Stellavox mixer for instance. This input can be mixed with the mike and line inputs of the same channel in the STEREO selection, and all together in the MONO selection.
@@ -249,11 +248,11 @@ All condenser microphones may be directly fed by all STELLAVOX recorders and mix
 
 The "OUTPUT" receptacle features at pins direct 1 and direct 2 the low impedance outputs ( < 10 ohms) of the recording amplifiers SOC or the playback amplifiers, depending on the position of the switch "DIRECT- TAPE", located on the front panel of the SP 8, for the channels I and II. The outputs are single ended, (unbalanced, complementary output stages with very low distortion and broad-frequency response) with a nominal output level of 1.55 V (+6 dBm), max. 3.8 V (+14 dBm).
 
-The DIRECT-TAPE" switch of the SQ 8 is located on the right~side panel, and operates all the four channels.
+The ’DIRECT-TAPE" switch of the SQ 8 is located on the right~side panel, and operates all the four channels.
 
 For certain purposes it is desirable to have these lines balanced and at a somewhat higher output level. Such applications as feeding a telephone line, interfacing with a system in which a relatively long cable is. involved etc. The SP 8 is available on option with a double output transformer which permits standard line levels +6 and +15 dBm (1,5 and 4,4 V). The outputs are on 6 banana jacks on the right panel.
 
-These output transformerarse not recommended for the SM 8 and SI 8 recorders, as they somewhat alter the phase. Their installation inside the SQ 8 is not possible.
+These output transformers are not recommended for the SM 8 and SI 8 recorders, as they somewhat alter the phase. Their installation inside the SQ 8 is not possible.
 
 The contacts phone 1 and phone 2 of the "OUTPUT" receptacle are connected to the direct outputs 1 and 2 via 150 ohm resistors allowing the connection of headphones with a large spread of impedances, 200 to 2000 ohms, and providing satisfactory listening level. A volume control for the listening level at the jack output has been provided and is installed just above the jack output (stereo) on the rear right panel.
 
