@@ -31,11 +31,11 @@ Telex : 35380
 ref.: 827
 
 All care is given to ensure that the information provided in this booklet is accurate and up-to-date.
-Nevertheless progressive improvemenmtasy be incorporated in this equipment from time to time and this may lead sometimes to inaccuracies or inconsistencies in this publication.
+Nevertheless progressive improvements may be incorporated in this equipment from time to time and this may lead sometimes to inaccuracies or inconsistencies in this publication.
 
 We therefore suggest the cooperation of users in reporting such possible errors or omissions or even suggesting improvements.
 
-For servicing, informations and spare parts, please contact
+For servicing, information and spare parts, please contact
 
 STELLAVOX
 Jardillets 18
@@ -136,7 +136,6 @@ IMPORTANT : please always quote equipment type and serial number when requesting
 
 List No. 2b
 
-
 #+BEGIN_export latex
 \clearpage
 #+END_export
@@ -173,15 +172,15 @@ After concluding the mechanical work the SHD should always be demagnetised.
 
 To disassemble the motor, the pinch wheel lever must be removed. Unscrew lateral and top screws of that lever and remove it by pulling gently. Open the path as described in 2.2 and disconnect the equipment from any supply.
 
-Remove the bottom plate and the drive-belts. Pull out the motor connector and its ground attachement.
+Remove the bottom plate and the drive-belts. Pull out the motor connector and its ground attachment.
 
 Lie the equipment in front of you on a flat surface, held the motor firmly underneath with the left hand, unscrew the fastening screws on top with the key, put the equipment on edge, thereby holding the loose motor at an angle and raise the steel cable of the tensiometer over the gear of the mechanism. The motor can then be pulled out carefully.
 
-To rebuild the laid out mechanism in its correct position, turn the motorpulley to the left. Hold the equipment at an angle, adjust the motor until the bracket of the mechanism arm interlocks into the counter-rotation arm still in the equipment. Thus with the left hand move the rotation arm until the interlock can be felt. Raise the cable of the tensiometer again over the gear and fasten the motor with the three inbus screws. Before the screws are tightened finally, test the mechanics.
+To rebuild the laid out mechanism in its correct position, turn the motor pulley to the left. Hold the equipment at an angle, adjust the motor until the bracket of the mechanism arm interlocks into the counter-rotation arm still in the equipment. Thus with the left hand move the rotation arm until the interlock can be felt. Raise the cable of the tensiometer again over the gear and fasten the motor with the three inbus screws. Before the screws are tightened finally, test the mechanics.
 
 For adjustment of the pinch wheel lever turn manually to the right the motor-pulley until the left roller arm pressed against it is in the working position "PLAY". Release the pinch roller (pull out button on the arm) and position roller arm at 0,2 mm distance from the capstan. Tighten both imbus screws of the arm. Press button, the counter-capstan roller is released and lies between 450-550 grams pressure against capstan.
 
-After every dismantling and re-buildinogf the motorblock, the tape tension rollers are set as described under [[3.4]].
+After every dismantling and re-building of the motorblock, the tape tension rollers are set as described under [[3.4]].
 
 ** 2.4 Wind-off Side
 
@@ -193,7 +192,7 @@ Watch out for the position and direction of the steel cord. Further assembly in 
 
 ** 2.5 Wind-up Side
 
-This winding assembly is in principale mounted like the wind off side. To disassemble, one unscrews the top side existing three imbus screws and at the same time with the left hand hold the winding section firmly, put the equipment on edge and pull it out.
+This winding assembly is in principle mounted like the wind off side. To disassemble, one unscrews the top side existing three imbus screws and at the same time with the left hand hold the winding section firmly, put the equipment on edge and pull it out.
 
 The tensiometer cable is thereby lose and must re~assembly be first lead over the cable roller mounted in a rocker arm. The roller should at first point towards the loudspeaker. After that pull the cable over the second roller and the brass leaf spring and bring the winding section with a slight right turn into position and fasten.
 
@@ -238,14 +237,14 @@ Remove all buttons: CH-1, CH-2, main switch, LINE-1, LINE-2, meter selector, und
 
 ** 2.11 Potentiometer CH-1, CH-2
 
-Remove the front panel as described in [[2.10]]. The furter fastening of the potentiometer is visible. Unsolder connection wires and pull out potentiometer inwards. The installation is easier if the motor is taken out previously.
+Remove the front panel as described in [[2.10]]. The further fastening of the potentiometer is visible. Unsolder connection wires and pull out potentiometer inwards. The installation is easier if the motor is taken out previously.
 
 ** 2.12 Potentiometer LINE-1, LINE-2, SJK-Module
 <<2.12>>
 
-To change the line potentiometer, the SJK module must be disassembled. Remove buttons on the pre-attenuation switches, modulometer and its lighting. The SJK module is fastened inside screws and under the modulometeer with two further sunk headed screws.
+To change the line potentiometer, the SJK module must be disassembled. Remove buttons on the pre-attenuation switches, modulometer and its lighting. The SJK module is fastened inside screws and under the modulometer with two further sunk headed screws.
 
-The two line potentiometers are mounted with central fastening on a U-form metal component. This metal component is fastened at the front with two sunk headed screws. Unsolder connections of the potentiometers before thei removal. Assembly in reverse order.
+The two line potentiometers are mounted with central fastening on a U-form metal component. This metal component is fastened at the front with two sunk headed screws. Unsolder connections of the potentiometers before their removal. Assembly in reverse order.
 
 ** 2.13 Potentiometer "PHONE"
 
@@ -270,7 +269,7 @@ Remove bottom cover, pull out side modules SPC+SOC. The switch is soldered on a 
 
 ** 2.18 Switch "METER"
 
-Remove the bottom plate and the front panel as described under [[2.10]]. Dismantle the SJK module as described under [[2.12][2.12]]. Undo holderpiece for switch and indicator at the front. Unscrew potentiometer support and remove holder depart with indicator forwards. The switch is now freely accessible. Assemble in reverse order.
+Remove the bottom plate and the front panel as described under [[2.10]]. Dismantle the SJK module as described under [[2.12][2.12]]. Undo holder-piece for switch and indicator at the front. Unscrew potentiometer support and remove holder depart with indicator forwards. The switch is now freely accessible. Assemble in reverse order.
 
 ** 2.19 Switch "Speed"
 
@@ -303,7 +302,7 @@ Remove bottom cover and take off plug module SQS (SXQ) and SIZ. Dismantle wind o
 
 ** 2.26 Modules
 
-The modules are for most part plug units exchangeable in the described way. Some possess an additional groundwire which has to be unsoldered. The changing of the SJK-module is described under 2.12, and that of the output carry over set SOT under [[2.25]].
+The modules are for most part plug units exchangeable in the described way. Some possess an additional ground-wire which has to be unsoldered. The changing of the SJK-module is described under 2.12, and that of the output carry over set SOT under [[2.25]].
 
 #+BEGIN_export latex
 \clearpage
@@ -312,7 +311,7 @@ The modules are for most part plug units exchangeable in the described way. Some
 * Mechanical Adjustments
 ** 3.1 Headsblock SHD
 
-Every sound head carrier is equipped with 3 or 4 heads for erase, record, pilot and play-black. The individual heads, in a cutaway mounting, are ad justable from the opened SHD with 4 thread screws. Two screws in the shaft form the edge, with which at the same time head height and zenit is adjusted. Two further screws sideways from the slit serve the adjustment of the azimut and the fixing of the heads.
+Every sound head carrier is equipped with 3 or 4 heads for erase, record, pilot and play-black. The individual heads, in a cutaway mounting, are adjustable from the opened SHD with 4 thread screws. Two screws in the shaft form the edge, with which at the same time head height and zenit is adjusted. Two further screws sideways from the slit serve the adjustment of the azimut and the fixing of the heads.
 
 [[file:img/3.1.headsblock-SHD.png]]
 
@@ -326,7 +325,7 @@ The following work described requires a trained technician. The following specia
 
 Put sound head carrier on the flat plate and test whether base is absolutely even. Remove carefully possible impurities or rub down evenly with a flat plate covered with a very fine emery paper.
 
-With adjustment gauge, test the Height, Zenit and Azimut of the heads: if necessary adjust. Use magnifyinig glass and repeat the foregoing adjustments until the necessary accuracy is achieved,
+With adjustment gauge, test the Height, Zenit and Azimut of the heads: if necessary adjust. Use magnifying glass and repeat the foregoing adjustments until the necessary accuracy is achieved,
 
 Fix the SHD with heads up and even up the surface of all heads with diamond paste 16 and polish with the diamond paste 8.
 
@@ -358,7 +357,7 @@ By toothed brass disk on the left stroke, must engage the Delrin-gear on its ret
 
 The brake action of the completed winding assemblies may be tested for the average coil diameter with a spring balance.
 
-Put on a 1.5 m magnetic tape on a spool with 60 mm diameter, suspend tape beginning in a spring balance and at the same time draw out the tape in one movement. The measured value for the unwindling assembly must amount to 150 g, and for the winding up assembly 60 g. Tolerance +/-  25%.
+Put on a 1.5 m magnetic tape on a spool with 60 mm diameter, suspend tape beginning in a spring balance and at the same time draw out the tape in one movement. The measured value for the unwinding assembly must amount to 150 g, and for the winding up assembly 60 g. Tolerance +/-  25%.
 
 By varying amounts the block brakes of the unwinding assembly can be covered with a new, self-adhesive piece of felt. For the winding up assembly side round pieces of felt are also obtainable as spare parts.
 
@@ -377,12 +376,12 @@ First adjust the take-up side. Divide tape of 13 cm diameter spools equally on b
 
 On the rewind side the adjustment is correct when the slit is symmetrically covered by the left tape tension roller.
 
-*IMPORTANT*: Both drums are secured with two screws which should be lightly unscrewed before adjusting the drums. Retighten these screws after the adjustment. With these adjustment a constant tape tension of about 40 ~ 55 g is automatically guaranteed.
+*IMPORTANT*: Both drums are secured with two screws which should be lightly unscrewed before adjusting the drums. Re-tighten these screws after the adjustment. With these adjustment a constant tape tension of about 40 ~ 55 g is automatically guaranteed.
 
 ** 3.5 Steering Roller
 <<3.5>>
 
-The sligthly convex turned roller provides with its ball bearing for accurate tape running and flutter damping. It is changeable after loosening the imbus screw on the top of the_roller. For correct positioning of the roller lever, fix it in opened position with 30 mm distance to the deck plate edge.
+The slightly convex turned roller provides with its ball bearing for accurate tape running and flutter damping. It is changeable after loosening the imbus screw on the top of the_roller. For correct positioning of the roller lever, fix it in opened position with 30 mm distance to the deck plate edge.
 
 [[file:img/3.5.steering-roller.png]]
 
@@ -406,7 +405,7 @@ All ball bearings are oiled once for their life and require no further maintenan
 
 The upper capstan bearing can be occasionally oiled afterwards, solely with fine machine oil.
 
-Should the brass leaf spring on the take-up assembly be changed, oil the surface betweeen steel cable and spring with resin free oil.
+Should the brass leaf spring on the take-up assembly be changed, oil the surface between steel cable and spring with resin free oil.
 
 #+BEGIN_export latex
 \clearpage
@@ -415,15 +414,15 @@ Should the brass leaf spring on the take-up assembly be changed, oil the surface
 * Circuits of the Drive Assembly
 ** 4.1 General
 
-The driving force of the STELLAVOX-magnetic tape recorder SP 8 is a Stellavox servo-regulated direct current motor. The use of Samarium-cobalt for the stator as well as the special patented flat rotor are responsible for the high efficieny of the motor.
+The driving force of the STELLAVOX-magnetic tape recorder SP 8 is a Stellavox servo-regulated direct current motor. The use of Samarium-cobalt for the stator as well as the special patented flat rotor are responsible for the high efficiency of the motor.
 
-The disc Shaped armature carries an axial commutator and a tacho-dise on its perimeter produces 400 bright-dark sectors, for the opto-electronic control range.
+The disc Shaped armature carries an axial commutator and a tachodise on its perimeter produces 400 bright-dark sectors, for the opto-electronic control range.
 
 The current is supplied over 6 brushes.
 
-For the stabilised forward running on record and play-back (without synchroniser operation) the following modules and circtiits operate: Voltage stabiliser SSC + 8V, circuit 140, tacho-module STF, circuit speed selector for SSP, motor drive module SMU and the motor SMC.
+For the stabilised forward running on record and play-back (without synchroniser operation) the following modules and circuits operate: Voltage stabiliser SSC + 8V, circuit 140, tacho-module STF, circuit speed selector for SSP, motor drive module SMU and the motor SMC.
 
-In the function PLAYBACK synchroniser operation is possible with the internal module SQS or an external instrument. This has aditional effect on the operating point of the motor driving module SMU.
+In the function PLAYBACK synchroniser operation is possible with the internal module SQS or an external instrument. This has additional effect on the operating point of the motor driving module SMU.
 
 To rewind the tape, the motor receives the maximum battery (or from power supply (voltage with reversed polarity and unregulated over the operation switch. For details see drawing [[No. 64.03.0016.1.5]].
 
@@ -487,17 +486,17 @@ The 4-step rotary switch controls the tape speeds 9.5/19/38 cm/s by matched capa
 
 The motor SMU module has a small opening, through which the variable ferrite core of a spool is accessible.
 
-For the fine adjustment of the speed unscrew the concealed screw on the righ side panel, Through the opening one can vary the ferrite core, with a small screwdriver,
+For the fine adjustment of the speed unscrew the concealed screw on the right side panel, Through the opening one can vary the ferrite core, with a small screwdriver,
 
-The fine speed adjustment is effected on running tape by checking the stroboscope disk of the tape tension roller. The strob. disk must be illuminated with fluorescent light.
+The fine speed adjustment is effected on running tape by checking the stroboscope disk of the tape tension roller. The strobe disk must be illuminated with fluorescent light.
 
 ** 5.3 Brushes
 
 The motor is provided with a 6-part brush holder, which picks up 3 pairs of commutator brushes. For running two opposite brushes are necessary. The three pairs increase the reliability.
 
-Switch off batteries or power supplies and remove the base cover. Take off belts and take out insulation disc fastened with three screws on the brush holder. Unsolder brushes - wires and take off insulation mantle. Lift the spring pressed against it with tweezers and pull the brushes out of the holder. Care must be taker, that the wire to the brushes leads through under the spring without mechanival strain, Thereby a reaction on the brush mounting and a noise free running of the motor will be guaranteed.
+Switch off batteries or power supplies and remove the base cover. Take off belts and take out insulation disc fastened with three screws on the brush holder. Unsolder brushes - wires and take off insulation mantle. Lift the spring pressed against it with tweezers and pull the brushes out of the holder. Care must be taker, that the wire to the brushes leads through under the spring without mechanical strain, Thereby a reaction on the brush mounting and a noise free running of the motor will be guaranteed.
 
-One of the three pairs of trushes is made of some dark material for better compatibility between the metal of the commutator and the remaining brushes. These brushes are identified by a coloured point on the brush-holder.
+One of the three pairs of brushes is made of some dark material for better compatibility between the metal of the commutator and the remaining brushes. These brushes are identified by a coloured point on the brush-holder.
 
 See also Stellinform 7807.10/T of 14.7.1978.
 
@@ -577,7 +576,7 @@ See circuit  [[No. 64.03.0018.1.5][No. 64.03.0018.1.5]]
 
 ** 6.6 Automatic: Drawing No. 64.03.0018.1.5
 
-Possible internal rewiring of the STELLAVOX SP 8 results in two various operations at the AUTOMATIC: 1. manual adjustment of a higher gauge threshol: with the potentiometers CH-1 and CH-2: at higher levels, the SGC-module acts on the feedback of the SPC-amplifiers. 2. the manual adjustment of the channel potentiometer will be replaced by a fixed resistor which corresponds to the value of the work setting of the potentiometer.
+Possible internal rewiring of the STELLAVOX SP 8 results in two various operations at the AUTOMATIC: 1. manual adjustment of a higher gauge threshold with the potentiometers CH-1 and CH-2: at higher levels, the SGC-module acts on the feedback of the SPC-amplifiers. 2. the manual adjustment of the channel potentiometer will be replaced by a fixed resistor which corresponds to the value of the work setting of the potentiometer.
 
 Description 2: detection over. 1000 pF, R 56 kOhm, SGC module Point 2 (in 1) SPC + SOC module Point 4 (out 1), S 1 IX (6), Pot. 10 kOhm R 6,8 kOhm 6,8 pF, Point 6 (in 2). Feedback: SPC-+ SOC Point 4, SGC Point 6, Point 7, SPC + SOC Point 3 (FB 1).
 
@@ -725,7 +724,7 @@ An increase in the capacity value causes a decrease in voltage. The oscillator f
 
 ** 7.5 Playback Setting
 
-Demagnetise sound headsblock and capstan. Put on reference tape according to selected speed. Connect LF-millivoltmeter and oscilloscope with the outputs of the equipment: "OUTPUT DIRECT 1" = Point 2 and Point 3 or “OUTPUT DIRECT 2" = Point 4 and Point 3 of the output socket. Put switch "TAPE/ DIRECT" in position "TAPE". For two speeds headsblocks, the above should be repeated.
+Demagnetise sound headsblock and capstan. Put on reference tape according to selected speed. Connect LF-millivoltmeter and oscilloscope with the outputs of the equipment: "OUTPUT DIRECT 1" = Point 2 and Point 3 or “OUTPUT DIRECT 2" = Point 4 and Point 3 of the output socket. Put switch "TAPE/ DIRECT" in position "TAPE". For two speeds headblocks, the above should be repeated.
 
 [[file:img/7.5.playback-setting.png]]
 
@@ -755,7 +754,7 @@ Connect equipment as 7.5 and sound generator with inputs of the equipment: "AUX 
 
 ** 7.11 Oscillator Frequency
 
-Connect digital counter (high input impedance!) on Point 15 of the headsblock. Put on erased tape and switch equipment on "RECORD". Set with C4 oscillator frequency on f = 61.44 kHz. Ajdust voltage with valve meter (high input impedance!).
+Connect digital counter (high input impedance!) on Point 15 of the headsblock. Put on erased tape and switch equipment on "RECORD". Set with C4 oscillator frequency on f = 61.44 kHz. Adjust voltage with valve meter (high input impedance!).
 
 [[file:img/7.11.oscillator-frequency.png]]
 
@@ -828,7 +827,7 @@ Connect LF-voltmeter and oscilloscope as in [[7.4]]. Set with R5  ([[No. 00.0006
 
 ** 7.23 Control of the Pilot Track Position
 
-Set sound generator on measuring level 1.55 V and 50 Hz and record approx. 10 seconds of pilot signal. Wind back and play to read the pilot signal; then, *without rewinding,* reverse both reels in order to play the tape in reverse direction: there is a small difference between both signals, the second being lower if the pilot track is not centered. If this difference is higher than 1 dB, recalibrate properly the pilot head height.
+Set sound generator on measuring level 1.55 V and 50 Hz and record approx. 10 seconds of pilot signal. Wind back and play to read the pilot signal; then, *without rewinding,* reverse both reels in order to play the tape in reverse direction: there is a small difference between both signals, the second being lower if the pilot track is not centered. If this difference is higher than 1 dB, re-calibrate properly the pilot head height.
 
 ** 7.24  Synchrotone
 
@@ -899,7 +898,7 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 
 - 6. By use of the signal 3150 Hz, the frequency of the Beep (approx. 1000 Hz) will be recorded.
 - 8. Playback of this 1000 Hz signal.
-- 10. Setting of the speeed with the trimmer (6) so that by changing ‘SYNC ON" to "OSC" and reverse the meter shows the same frequency.
+- 10. Setting of the speed with the trimmer (6) so that by changing ‘SYNC ON" to "OSC" and reverse the meter shows the same frequency.
 
   #+BEGIN_export latex
 \clearpage
@@ -951,7 +950,7 @@ Should no flutter meter be available, but however a counter, appropriate instruc
 ** Current Diagram "PILOT" - No. 64.03.0017.1.5
 <<No. 64.03.0017.1.5>>
 
-#+caption:  SP8 Pilot cuircuit - No. 64.03.0017.1.5
+#+caption:  SP8 Pilot circuit - No. 64.03.0017.1.5
 [[file:img/No.64.03.0017.1.5.jpeg]]
 
 #+BEGIN_export latex
