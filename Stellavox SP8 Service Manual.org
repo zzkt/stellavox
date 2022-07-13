@@ -385,7 +385,7 @@ The slightly convex turned roller provides with its ball bearing for accurate ta
 
 [[file:img/3.5.steering-roller.png]]
 
-** 3.6 Pinch Rolier
+** 3.6 Pinch Roller
 
 The adjustment of the pinch roller is described under [[2.3]].
 
@@ -809,7 +809,7 @@ Set sound generator on reference level 1.55 V and 50 Hz and connect with the syn
 
 ** 7.20 Record Level "CRYSTAL PILOT"
 
-First carry out work under [[7.18]]. Adjust the 50/60 Hz signal with R 10 by use of SXQ 123 and with R14 by use of SQS, so that the playback level amounts to 1.55 V.
+First carry out work under [[7.18][7.18]]. Adjust the 50/60 Hz signal with R 10 by use of SXQ 123 and with R14 by use of SQS, so that the playback level amounts to 1.55 V.
 
 [[file:img/7.20.record-level.png]]
 
